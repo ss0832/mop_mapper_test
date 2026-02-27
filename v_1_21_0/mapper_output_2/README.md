@@ -9,3 +9,15 @@ To rapidly evaluate the operation of the tool, GFN2-xTB was employed. Although s
 
 GFN2-xTB: _J. Chem. Theory Comput._ **2019**, 15, 3, 1652–1671
 
+
+### Execution Procedure
+The reaction pathway exploration was executed using the run_mapper.py script included in the MultiOptPy package. The configuration file (config_snapshot.json) and the input coordinate file (mapper_test.xyz) were placed in the same working directory prior to execution.
+
+#### Prerequisites:
+
+Installation of the MultiOptPy (v1.21.0) package is required.
+
+#### Command:
+```
+python run_mapper.py mapper_test.xyz -cfg config_snapshot.json
+```
