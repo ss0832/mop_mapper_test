@@ -34,7 +34,7 @@ Completion Status: The process reached an exhaustive state after 10,000 resampli
 ```
 2026-02-27 21:04:46 [INFO    ] multioptpy.Wrapper.mapper: All candidate (EQ, pair) combinations appear exhausted after 10000 resampling attempts. Stopping.
 ```
-This metric demonstrates that the MultiOptPy workflow is fully operational on a standard laptop environment, providing a portable solution for initial reaction pathway screening.
 
 ### References
 [1] C. Bannwarth, S. Ehlert, and S. Grimme, J. Chem. Theory Comput. 2019, 15, 3, 1652–1671.
+
