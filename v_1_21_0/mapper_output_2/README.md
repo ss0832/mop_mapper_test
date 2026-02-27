@@ -5,9 +5,6 @@ clustered_network_spatial.png: Cluster 1 mainly consists of the products of the 
 
 To rapidly evaluate the operation of the tool, GFN2-xTB was employed. Although semi-empirical methods possess inherent limitations in accuracy for detailed pathway explorations, this approach was chosen specifically to ensure that the test computations could be completed under the hardware constraints.
 
-2026-02-27 21:04:46 [INFO    ] multioptpy.Wrapper.mapper: All candidate (EQ, pair) combinations appear exhausted after 10000 resampling attempts. Stopping.
-
-GFN2-xTB: _J. Chem. Theory Comput._ **2019**, 15, 3, 1652–1671
 
 
 ### Execution Procedure
@@ -33,3 +30,11 @@ python run_mapper.py mapper_test.xyz -cfg config_snapshot.json
 Under the specified hardware constraints and utilizing the GFN2-xTB method, the wall-clock time required to complete the pathway exploration test was approximately 72 hours. This metric is provided solely to demonstrate the operational feasibility of the workflow on a standard laptop environment.
 
 
+Completion Status: The process reached an exhaustive state after 10,000 resampling attempts, successfully mapping the stable nodes and transition states.
+```
+2026-02-27 21:04:46 [INFO    ] multioptpy.Wrapper.mapper: All candidate (EQ, pair) combinations appear exhausted after 10000 resampling attempts. Stopping.
+```
+This metric demonstrates that the MultiOptPy workflow is fully operational on a standard laptop environment, providing a portable solution for initial reaction pathway screening.
+
+### References
+[1] C. Bannwarth, S. Ehlert, and S. Grimme, J. Chem. Theory Comput. 2019, 15, 3, 1652–1671.
