@@ -13,11 +13,20 @@ GFN2-xTB: _J. Chem. Theory Comput._ **2019**, 15, 3, 1652–1671
 ### Execution Procedure
 The reaction pathway exploration was executed using the run_mapper.py script included in the MultiOptPy package. The configuration file (config_snapshot.json) and the input coordinate file (mapper_test.xyz) were placed in the same working directory prior to execution.
 
-#### Prerequisites:
 
-Installation of the MultiOptPy (v1.21.0) package is required.
+#### System Requirements and Prerequisites
+
+The computations were performed under the following software environment:
+
+Operating System: Ubuntu 24.04.3 LTS (Noble Numbat)
+
+Programming Language: Python 3.12
+
+Software Package: MultiOptPy v1.21.0
+
 
 #### Command:
 ```
 python run_mapper.py mapper_test.xyz -cfg config_snapshot.json
 ```
+
