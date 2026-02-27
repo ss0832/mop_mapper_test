@@ -16,9 +16,9 @@ The computations were performed under the following software and hardware enviro
 
 - Operating System: Ubuntu 24.04.3 LTS (Noble Numbat)
 - Hardware Specifications:
- 　- CPU: AMD Ryzen 7 5800H (8 cores, 16 threads)
- 　- Memory (RAM): 8 GB (Available: approx. 7.8 GB)
- 　- GPU: Not utilized (CPU-only execution)
+  - CPU: AMD Ryzen 7 5800H (8 cores, 16 threads)
+  - Memory (RAM): 8 GB (Available: approx. 7.8 GB)
+  - GPU: Not utilized (CPU-only execution)
 - Programming Language: Python 3.12
 - Software Package: MultiOptPy v1.21.0
 
@@ -31,4 +31,5 @@ python run_mapper.py mapper_test.xyz -cfg config_snapshot.json
 ```
 #### 3. Computational Performance
 Under the specified hardware constraints and utilizing the GFN2-xTB method, the wall-clock time required to complete the pathway exploration test was approximately 72 hours. This metric is provided solely to demonstrate the operational feasibility of the workflow on a standard laptop environment.
+
 
