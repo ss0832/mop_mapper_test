@@ -1,11 +1,12 @@
 This technical note focuses on the operational validation and computational feasibility of the reaction pathway exploration tool using GFN2-xTB. It is not intended to provide a highly accurate quantitative assessment of the chemical reactions.
 
-The results presented here were obtained through exploration with GFN2-xTB.
 
-clustered_network_spatial.png: Cluster 1 mainly consists of the products of the Claisen rearrangement, while Clusters 2 and 3 consist of the reactants.
+### Case Study: Claisen Rearrangement
+The validation was performed on a Claisen rearrangement system. The resulting network was analyzed using unsupervised clustering based on activation barriers:
 
-To rapidly evaluate the operation of the tool, GFN2-xTB was employed. Although semi-empirical methods possess inherent limitations in accuracy for detailed pathway explorations, this approach was chosen specifically to ensure that the test computations could be completed under the hardware constraints.
+Result Summary: The exploration successfully identified the core reaction network.
 
+**clustered_network_spatial.png**: Cluster 1 mainly consists of the products of the Claisen rearrangement, while Clusters 2 and 3 consist of the reactants.
 
 
 ### Execution Procedure
@@ -28,6 +29,9 @@ To execute the reaction pathway exploration, the configuration file (config_snap
 python run_mapper.py mapper_test.xyz -cfg config_snapshot.json
 ```
 #### 3. Computational Performance
+
+To rapidly evaluate the operation of the tool, GFN2-xTB was employed. Although semi-empirical methods possess inherent limitations in accuracy for detailed pathway explorations, this approach was chosen specifically to ensure that the test computations could be completed under the hardware constraints.
+
 Under the specified hardware constraints and utilizing the GFN2-xTB method, the wall-clock time required to complete the pathway exploration test was approximately 72 hours. This metric is provided solely to demonstrate the operational feasibility of the workflow on a standard laptop environment.
 
 
@@ -38,5 +42,6 @@ Completion Status: The process reached an exhaustive state after 10,000 resampli
 
 ### References
 [1] C. Bannwarth, S. Ehlert, and S. Grimme, J. Chem. Theory Comput. 2019, 15, 3, 1652–1671.
+
 
 
