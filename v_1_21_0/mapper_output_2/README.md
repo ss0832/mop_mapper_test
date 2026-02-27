@@ -11,22 +11,23 @@ GFN2-xTB: _J. Chem. Theory Comput._ **2019**, 15, 3, 1652–1671
 
 
 ### Execution Procedure
-The reaction pathway exploration was executed using the run_mapper.py script included in the MultiOptPy package. The configuration file (config_snapshot.json) and the input coordinate file (mapper_test.xyz) were placed in the same working directory prior to execution.
+#### 1. System Requirements and Prerequisites
+The computations were performed under the following software and hardware environment. It should be noted that the Linux environment was operated under a Microsoft hypervisor (e.g., WSL or Hyper-V).
 
+- Operating System: Ubuntu 24.04.3 LTS (Noble Numbat)
+- Hardware Specifications:
+ - CPU: AMD Ryzen 7 5800H (8 cores, 16 threads)
+ - Memory (RAM): 8 GB (Available: approx. 7.8 GB)
+ - GPU: Not utilized (CPU-only execution)
+- Programming Language: Python 3.12
+- Software Package: MultiOptPy v1.21.0
 
-#### System Requirements and Prerequisites
+#### 2. Execution Procedure
+To execute the reaction pathway exploration, the configuration file (config_snapshot.json) and the input coordinate file (mapper_test.xyz) were placed within the same working directory. The tool was invoked using the run_mapper.py script provided by the MultiOptPy package.
 
-The computations were performed under the following software environment:
-
-Operating System: Ubuntu 24.04.3 LTS (Noble Numbat)
-
-Programming Language: Python 3.12
-
-Software Package: MultiOptPy v1.21.0
-
-
-#### Command:
+##### Command:
 ```
 python run_mapper.py mapper_test.xyz -cfg config_snapshot.json
 ```
-
+#### 3. Computational Performance
+Under the specified hardware constraints and utilizing the GFN2-xTB method, the wall-clock time required to complete the pathway exploration test was approximately 72 hours. This metric is provided solely to demonstrate the operational feasibility of the workflow on a standard laptop environment.
