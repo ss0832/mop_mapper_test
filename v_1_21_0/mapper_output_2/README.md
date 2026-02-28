@@ -4,8 +4,6 @@ This technical note focuses on the operational validation and computational feas
 ### Case Study: Claisen Rearrangement
 The validation was performed on a Claisen rearrangement system. The resulting network was analyzed using unsupervised clustering based on activation barriers:
 
-Result Summary: The exploration successfully identified the core reaction network.
-
 **clustered_network_spatial.png**: Cluster 1 mainly consists of the products of the Claisen rearrangement, while Clusters 2 and 3 consist of the reactants.
 
 
@@ -55,6 +53,7 @@ However, the interpretation of the numerical results requires strict limitations
 ### References
 [1] C. Bannwarth, S. Ehlert, and S. Grimme, _J. Chem. Theory Comput._ 2019, 15, 3, 1652–1671.
 [2] F. W. Schuler and G. W. Murphy, _J. Am. Chem. Soc._ 1950, 72, 7, 3155–3159.
+
 
 
 
