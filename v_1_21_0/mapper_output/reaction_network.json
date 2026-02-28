@@ -1,0 +1,1228 @@
+{
+  "nodes": [
+    {
+      "node_id": 0,
+      "xyz_file": "</absolute/path/to/>mapper_output/nodes/EQ000000.xyz",
+      "energy_hartree": -18.77331193234537,
+      "source_run_dir": "initial_optimization"
+    },
+    {
+      "node_id": 1,
+      "xyz_file": "</absolute/path/to/>mapper_output/nodes/EQ000001.xyz",
+      "energy_hartree": -18.774723476636,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000002_node0"
+    },
+    {
+      "node_id": 2,
+      "xyz_file": "</absolute/path/to/>mapper_output/nodes/EQ000002.xyz",
+      "energy_hartree": -18.77326118664,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000003_node0"
+    },
+    {
+      "node_id": 3,
+      "xyz_file": "</absolute/path/to/>mapper_output/nodes/EQ000003.xyz",
+      "energy_hartree": -18.775467565134,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000004_node0"
+    },
+    {
+      "node_id": 4,
+      "xyz_file": "</absolute/path/to/>mapper_output/nodes/EQ000004.xyz",
+      "energy_hartree": -18.778140590874,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000004_node0"
+    },
+    {
+      "node_id": 5,
+      "xyz_file": "</absolute/path/to/>mapper_output/nodes/EQ000005.xyz",
+      "energy_hartree": -18.775467565131,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000005_node0"
+    },
+    {
+      "node_id": 6,
+      "xyz_file": "</absolute/path/to/>mapper_output/nodes/EQ000006.xyz",
+      "energy_hartree": -18.773312012988,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000005_node0"
+    },
+    {
+      "node_id": 7,
+      "xyz_file": "</absolute/path/to/>mapper_output/nodes/EQ000007.xyz",
+      "energy_hartree": -18.774723476617,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000006_node1"
+    },
+    {
+      "node_id": 8,
+      "xyz_file": "</absolute/path/to/>mapper_output/nodes/EQ000008.xyz",
+      "energy_hartree": -18.777064621379,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000006_node1"
+    },
+    {
+      "node_id": 9,
+      "xyz_file": "</absolute/path/to/>mapper_output/nodes/EQ000009.xyz",
+      "energy_hartree": -18.777970056032,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000007_node1"
+    },
+    {
+      "node_id": 10,
+      "xyz_file": "</absolute/path/to/>mapper_output/nodes/EQ000010.xyz",
+      "energy_hartree": -18.775542291201,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000007_node1"
+    },
+    {
+      "node_id": 11,
+      "xyz_file": "</absolute/path/to/>mapper_output/nodes/EQ000011.xyz",
+      "energy_hartree": -18.777064621369,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000008_node1"
+    },
+    {
+      "node_id": 12,
+      "xyz_file": "</absolute/path/to/>mapper_output/nodes/EQ000012.xyz",
+      "energy_hartree": -18.790408363813,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000011_node3"
+    },
+    {
+      "node_id": 13,
+      "xyz_file": "</absolute/path/to/>mapper_output/nodes/EQ000013.xyz",
+      "energy_hartree": -18.778140590874,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000016_node4"
+    },
+    {
+      "node_id": 14,
+      "xyz_file": "</absolute/path/to/>mapper_output/nodes/EQ000014.xyz",
+      "energy_hartree": -18.776917995182,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000018_node4"
+    },
+    {
+      "node_id": 15,
+      "xyz_file": "</absolute/path/to/>mapper_output/nodes/EQ000015.xyz",
+      "energy_hartree": -18.776708273237,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000018_node4"
+    },
+    {
+      "node_id": 16,
+      "xyz_file": "</absolute/path/to/>mapper_output/nodes/EQ000016.xyz",
+      "energy_hartree": -18.789944300176,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000023_node12"
+    },
+    {
+      "node_id": 17,
+      "xyz_file": "</absolute/path/to/>mapper_output/nodes/EQ000017.xyz",
+      "energy_hartree": -18.789540132848,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000025_node12"
+    },
+    {
+      "node_id": 18,
+      "xyz_file": "</absolute/path/to/>mapper_output/nodes/EQ000018.xyz",
+      "energy_hartree": -18.790408363828,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000025_node12"
+    },
+    {
+      "node_id": 19,
+      "xyz_file": "</absolute/path/to/>mapper_output/nodes/EQ000019.xyz",
+      "energy_hartree": -18.788722701744,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000027_node18"
+    },
+    {
+      "node_id": 20,
+      "xyz_file": "</absolute/path/to/>mapper_output/nodes/EQ000020.xyz",
+      "energy_hartree": -18.789812405034,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000027_node18"
+    },
+    {
+      "node_id": 21,
+      "xyz_file": "</absolute/path/to/>mapper_output/nodes/EQ000021.xyz",
+      "energy_hartree": -18.789889393431,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000029_node18"
+    },
+    {
+      "node_id": 22,
+      "xyz_file": "</absolute/path/to/>mapper_output/nodes/EQ000022.xyz",
+      "energy_hartree": -18.789944302428,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000030_node18"
+    },
+    {
+      "node_id": 23,
+      "xyz_file": "</absolute/path/to/>mapper_output/nodes/EQ000023.xyz",
+      "energy_hartree": -18.788747721541,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000030_node18"
+    },
+    {
+      "node_id": 24,
+      "xyz_file": "</absolute/path/to/>mapper_output/nodes/EQ000024.xyz",
+      "energy_hartree": -18.821118597742,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000032_node9"
+    },
+    {
+      "node_id": 25,
+      "xyz_file": "</absolute/path/to/>mapper_output/nodes/EQ000025.xyz",
+      "energy_hartree": -18.789980785572,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000042_node22"
+    },
+    {
+      "node_id": 26,
+      "xyz_file": "</absolute/path/to/>mapper_output/nodes/EQ000026.xyz",
+      "energy_hartree": -18.790301347528,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000042_node22"
+    },
+    {
+      "node_id": 27,
+      "xyz_file": "</absolute/path/to/>mapper_output/nodes/EQ000027.xyz",
+      "energy_hartree": -18.790301347515,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000043_node22"
+    },
+    {
+      "node_id": 28,
+      "xyz_file": "</absolute/path/to/>mapper_output/nodes/EQ000028.xyz",
+      "energy_hartree": -18.788747721536,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000046_node16"
+    },
+    {
+      "node_id": 29,
+      "xyz_file": "</absolute/path/to/>mapper_output/nodes/EQ000029.xyz",
+      "energy_hartree": -18.789812405035,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000046_node16"
+    },
+    {
+      "node_id": 30,
+      "xyz_file": "</absolute/path/to/>mapper_output/nodes/EQ000030.xyz",
+      "energy_hartree": -18.790375071615,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000051_node21"
+    },
+    {
+      "node_id": 31,
+      "xyz_file": "</absolute/path/to/>mapper_output/nodes/EQ000031.xyz",
+      "energy_hartree": -18.790375071498,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000056_node17"
+    },
+    {
+      "node_id": 32,
+      "xyz_file": "</absolute/path/to/>mapper_output/nodes/EQ000032.xyz",
+      "energy_hartree": -18.73988170825,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000074_node2"
+    },
+    {
+      "node_id": 33,
+      "xyz_file": "</absolute/path/to/>mapper_output/nodes/EQ000033.xyz",
+      "energy_hartree": -18.788722701744,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000078_node23"
+    },
+    {
+      "node_id": 34,
+      "xyz_file": "</absolute/path/to/>mapper_output/nodes/EQ000034.xyz",
+      "energy_hartree": -18.775542291216,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000088_node7"
+    },
+    {
+      "node_id": 35,
+      "xyz_file": "</absolute/path/to/>mapper_output/nodes/EQ000035.xyz",
+      "energy_hartree": -18.800245787114,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000113_node24"
+    },
+    {
+      "node_id": 36,
+      "xyz_file": "</absolute/path/to/>mapper_output/nodes/EQ000036.xyz",
+      "energy_hartree": -18.80034722816,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000159_node35"
+    },
+    {
+      "node_id": 37,
+      "xyz_file": "</absolute/path/to/>mapper_output/nodes/EQ000037.xyz",
+      "energy_hartree": -18.789540132865,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000162_node30"
+    },
+    {
+      "node_id": 38,
+      "xyz_file": "</absolute/path/to/>mapper_output/nodes/EQ000038.xyz",
+      "energy_hartree": -18.800347228156,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000164_node35"
+    },
+    {
+      "node_id": 39,
+      "xyz_file": "</absolute/path/to/>mapper_output/nodes/EQ000039.xyz",
+      "energy_hartree": -18.799563895032,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000167_node38"
+    },
+    {
+      "node_id": 40,
+      "xyz_file": "</absolute/path/to/>mapper_output/nodes/EQ000040.xyz",
+      "energy_hartree": -18.800245787105,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000174_node35"
+    },
+    {
+      "node_id": 41,
+      "xyz_file": "</absolute/path/to/>mapper_output/nodes/EQ000041.xyz",
+      "energy_hartree": -18.677139773408,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000178_node40"
+    },
+    {
+      "node_id": 42,
+      "xyz_file": "</absolute/path/to/>mapper_output/nodes/EQ000042.xyz",
+      "energy_hartree": -18.716454185515,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000182_node40"
+    },
+    {
+      "node_id": 43,
+      "xyz_file": "</absolute/path/to/>mapper_output/nodes/EQ000043.xyz",
+      "energy_hartree": -18.706956397034,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000183_node39"
+    },
+    {
+      "node_id": 44,
+      "xyz_file": "</absolute/path/to/>mapper_output/nodes/EQ000044.xyz",
+      "energy_hartree": -18.800130659576,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000197_node35"
+    },
+    {
+      "node_id": 45,
+      "xyz_file": "</absolute/path/to/>mapper_output/nodes/EQ000045.xyz",
+      "energy_hartree": -18.766667297867,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000197_node35"
+    },
+    {
+      "node_id": 46,
+      "xyz_file": "</absolute/path/to/>mapper_output/nodes/EQ000046.xyz",
+      "energy_hartree": -18.674251303503,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000204_node44"
+    },
+    {
+      "node_id": 47,
+      "xyz_file": "</absolute/path/to/>mapper_output/nodes/EQ000047.xyz",
+      "energy_hartree": -18.789559305991,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000210_node28"
+    },
+    {
+      "node_id": 48,
+      "xyz_file": "</absolute/path/to/>mapper_output/nodes/EQ000048.xyz",
+      "energy_hartree": -18.766715997462,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000214_node35"
+    },
+    {
+      "node_id": 49,
+      "xyz_file": "</absolute/path/to/>mapper_output/nodes/EQ000049.xyz",
+      "energy_hartree": -18.702152248716,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000214_node35"
+    },
+    {
+      "node_id": 50,
+      "xyz_file": "</absolute/path/to/>mapper_output/nodes/EQ000050.xyz",
+      "energy_hartree": -18.716454185514,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000225_node35"
+    },
+    {
+      "node_id": 51,
+      "xyz_file": "</absolute/path/to/>mapper_output/nodes/EQ000051.xyz",
+      "energy_hartree": -18.766715997437,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000244_node35"
+    },
+    {
+      "node_id": 52,
+      "xyz_file": "</absolute/path/to/>mapper_output/nodes/EQ000052.xyz",
+      "energy_hartree": -18.76602948253,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000244_node35"
+    },
+    {
+      "node_id": 53,
+      "xyz_file": "</absolute/path/to/>mapper_output/nodes/EQ000053.xyz",
+      "energy_hartree": -18.704501686716,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000291_node36"
+    },
+    {
+      "node_id": 54,
+      "xyz_file": "</absolute/path/to/>mapper_output/nodes/EQ000054.xyz",
+      "energy_hartree": -18.707418782196,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000291_node36"
+    },
+    {
+      "node_id": 55,
+      "xyz_file": "</absolute/path/to/>mapper_output/nodes/EQ000055.xyz",
+      "energy_hartree": -18.704317698392,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000291_node36"
+    },
+    {
+      "node_id": 56,
+      "xyz_file": "</absolute/path/to/>mapper_output/nodes/EQ000056.xyz",
+      "energy_hartree": -18.788994389362,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000343_node25"
+    },
+    {
+      "node_id": 57,
+      "xyz_file": "</absolute/path/to/>mapper_output/nodes/EQ000057.xyz",
+      "energy_hartree": -18.704397179744,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000349_node35"
+    },
+    {
+      "node_id": 58,
+      "xyz_file": "</absolute/path/to/>mapper_output/nodes/EQ000058.xyz",
+      "energy_hartree": -18.789980785576,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000465_node33"
+    },
+    {
+      "node_id": 59,
+      "xyz_file": "</absolute/path/to/>mapper_output/nodes/EQ000059.xyz",
+      "energy_hartree": -18.788994389357,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000472_node47"
+    },
+    {
+      "node_id": 60,
+      "xyz_file": "</absolute/path/to/>mapper_output/nodes/EQ000060.xyz",
+      "energy_hartree": -18.704501686715,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000487_node38"
+    },
+    {
+      "node_id": 61,
+      "xyz_file": "</absolute/path/to/>mapper_output/nodes/EQ000061.xyz",
+      "energy_hartree": -18.703922783819,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000487_node38"
+    },
+    {
+      "node_id": 62,
+      "xyz_file": "</absolute/path/to/>mapper_output/nodes/EQ000062.xyz",
+      "energy_hartree": -18.704088502735,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000487_node38"
+    }
+  ],
+  "edges": [
+    {
+      "edge_id": 0,
+      "node_id_1": 0,
+      "node_id_2": 1,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000000.xyz",
+      "ts_energy_hartree": -18.772902004756,
+      "barrier_fwd_kcal": 0.25728405439122043,
+      "barrier_rev_kcal": 1.1429908613265645,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000002_node0"
+    },
+    {
+      "edge_id": 1,
+      "node_id_1": 2,
+      "node_id_2": 2,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000001.xyz",
+      "ts_energy_hartree": -18.770838775409,
+      "barrier_fwd_kcal": 1.5200859973757075,
+      "barrier_rev_kcal": 1.5200859923551855,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000003_node0"
+    },
+    {
+      "edge_id": 2,
+      "node_id_1": 3,
+      "node_id_2": 4,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000002.xyz",
+      "ts_energy_hartree": -18.767256656463,
+      "barrier_fwd_kcal": 5.15242298120114,
+      "barrier_rev_kcal": 6.829771957295923,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000004_node0"
+    },
+    {
+      "edge_id": 3,
+      "node_id_1": 5,
+      "node_id_2": 6,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000003.xyz",
+      "ts_energy_hartree": -18.772903261829,
+      "barrier_fwd_kcal": 1.60912461621335,
+      "barrier_rev_kcal": 0.25649522478102793,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000005_node0"
+    },
+    {
+      "edge_id": 4,
+      "node_id_1": 7,
+      "node_id_2": 8,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000004.xyz",
+      "ts_energy_hartree": -18.76632747522,
+      "barrier_fwd_kcal": 5.268570420336496,
+      "barrier_rev_kcal": 6.737660938496471,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000006_node1"
+    },
+    {
+      "edge_id": 5,
+      "node_id_1": 7,
+      "node_id_2": 9,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000005.xyz",
+      "ts_energy_hartree": -18.765951600325,
+      "barrier_fwd_kcal": 5.504435479868785,
+      "barrier_rev_kcal": 7.541694818992145,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000007_node1"
+    },
+    {
+      "edge_id": 6,
+      "node_id_1": 10,
+      "node_id_2": 9,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000006.xyz",
+      "ts_energy_hartree": -18.765728890212,
+      "barrier_fwd_kcal": 6.158002092758238,
+      "barrier_rev_kcal": 7.681447527365734,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000007_node1"
+    },
+    {
+      "edge_id": 7,
+      "node_id_1": 12,
+      "node_id_2": 3,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000007.xyz",
+      "ts_energy_hartree": -18.743942308966,
+      "barrier_fwd_kcal": 29.157889635895252,
+      "barrier_rev_kcal": 19.782396919461736,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000011_node3"
+    },
+    {
+      "edge_id": 8,
+      "node_id_1": 0,
+      "node_id_2": 3,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000008.xyz",
+      "ts_energy_hartree": -18.772903261849,
+      "barrier_fwd_kcal": 0.25649520532984893,
+      "barrier_rev_kcal": 1.6091246036642741,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000014_node3"
+    },
+    {
+      "edge_id": 9,
+      "node_id_1": 4,
+      "node_id_2": 14,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000009.xyz",
+      "ts_energy_hartree": -18.773782744291,
+      "barrier_fwd_kcal": 2.734590023345483,
+      "barrier_rev_kcal": 1.967399637468798,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000018_node4"
+    },
+    {
+      "edge_id": 10,
+      "node_id_1": 9,
+      "node_id_2": 15,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000010.xyz",
+      "ts_energy_hartree": -18.773880330406,
+      "barrier_fwd_kcal": 2.566341566962496,
+      "barrier_rev_kcal": 1.774560918381116,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000018_node4"
+    },
+    {
+      "edge_id": 11,
+      "node_id_1": 12,
+      "node_id_2": 16,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000011.xyz",
+      "ts_energy_hartree": -18.788176787494,
+      "barrier_fwd_kcal": 1.400335292794985,
+      "barrier_rev_kcal": 1.1091309533707308,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000023_node12"
+    },
+    {
+      "edge_id": 12,
+      "node_id_1": 17,
+      "node_id_2": 18,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000012.xyz",
+      "ts_energy_hartree": -18.787232053986,
+      "barrier_fwd_kcal": 1.4483413526445679,
+      "barrier_rev_kcal": 1.9931645182149391,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000025_node12"
+    },
+    {
+      "edge_id": 13,
+      "node_id_1": 12,
+      "node_id_2": 19,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000013.xyz",
+      "ts_energy_hartree": -18.785341581981,
+      "barrier_fwd_kcal": 3.179453600386876,
+      "barrier_rev_kcal": 2.1216846840103236,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000027_node18"
+    },
+    {
+      "edge_id": 14,
+      "node_id_1": 20,
+      "node_id_2": 19,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000014.xyz",
+      "ts_energy_hartree": -18.788134869245,
+      "barrier_fwd_kcal": 1.0526696005714158,
+      "barrier_rev_kcal": 0.3688704609929293,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000027_node18"
+    },
+    {
+      "edge_id": 15,
+      "node_id_1": 21,
+      "node_id_2": 12,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000015.xyz",
+      "ts_energy_hartree": -18.786911205204,
+      "barrier_fwd_kcal": 1.8688413277982643,
+      "barrier_rev_kcal": 2.139168288969693,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000029_node18"
+    },
+    {
+      "edge_id": 16,
+      "node_id_1": 21,
+      "node_id_2": 22,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000016.xyz",
+      "ts_energy_hartree": -18.785000596931,
+      "barrier_fwd_kcal": 3.067766122719112,
+      "barrier_rev_kcal": 3.102222036034678,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000030_node18"
+    },
+    {
+      "edge_id": 17,
+      "node_id_1": 17,
+      "node_id_2": 23,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000017.xyz",
+      "ts_energy_hartree": -18.787122866716,
+      "barrier_fwd_kcal": 1.5168574184623917,
+      "barrier_rev_kcal": 1.0196117965619513,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000030_node18"
+    },
+    {
+      "edge_id": 18,
+      "node_id_1": 24,
+      "node_id_2": 9,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000018.xyz",
+      "ts_energy_hartree": -18.702725540944,
+      "barrier_fwd_kcal": 74.29276479656416,
+      "barrier_rev_kcal": 47.216646077979384,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000032_node9"
+    },
+    {
+      "edge_id": 19,
+      "node_id_1": 9,
+      "node_id_2": 8,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000019.xyz",
+      "ts_energy_hartree": -18.775474392594,
+      "barrier_fwd_kcal": 1.5660524362017754,
+      "barrier_rev_kcal": 0.997883632181538,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000039_node9"
+    },
+    {
+      "edge_id": 20,
+      "node_id_1": 22,
+      "node_id_2": 12,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000020.xyz",
+      "ts_energy_hartree": -18.788176787496,
+      "barrier_fwd_kcal": 1.1091323445591825,
+      "barrier_rev_kcal": 1.4003352915398546,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000041_node22"
+    },
+    {
+      "edge_id": 21,
+      "node_id_1": 26,
+      "node_id_2": 25,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000021.xyz",
+      "ts_energy_hartree": -18.78678588813,
+      "barrier_fwd_kcal": 2.2059840777066526,
+      "barrier_rev_kcal": 2.0048284089195514,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000042_node22"
+    },
+    {
+      "edge_id": 22,
+      "node_id_1": 22,
+      "node_id_2": 27,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000022.xyz",
+      "ts_energy_hartree": -18.787770766845,
+      "barrier_fwd_kcal": 1.3639141459353357,
+      "barrier_rev_kcal": 1.587963345146967,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000043_node22"
+    },
+    {
+      "edge_id": 23,
+      "node_id_1": 28,
+      "node_id_2": 16,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000023.xyz",
+      "ts_energy_hartree": -18.784666314025,
+      "barrier_fwd_kcal": 2.5611218804085487,
+      "barrier_rev_kcal": 3.3119877303110523,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000046_node16"
+    },
+    {
+      "edge_id": 24,
+      "node_id_1": 29,
+      "node_id_2": 28,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000024.xyz",
+      "ts_energy_hartree": -18.787431585219,
+      "barrier_fwd_kcal": 1.4939869904272303,
+      "barrier_rev_kcal": 0.8258880217980128,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000046_node16"
+    },
+    {
+      "edge_id": 25,
+      "node_id_1": 30,
+      "node_id_2": 21,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000025.xyz",
+      "ts_energy_hartree": -18.788158346558,
+      "barrier_fwd_kcal": 1.391015974520684,
+      "barrier_rev_kcal": 1.0862483140013097,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000051_node21"
+    },
+    {
+      "edge_id": 26,
+      "node_id_1": 17,
+      "node_id_2": 31,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000026.xyz",
+      "ts_energy_hartree": -18.787788832353,
+      "barrier_fwd_kcal": 1.098957651805857,
+      "barrier_rev_kcal": 1.6228895655170217,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000056_node17"
+    },
+    {
+      "edge_id": 27,
+      "node_id_1": 17,
+      "node_id_2": 20,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000027.xyz",
+      "ts_energy_hartree": -18.787764758131,
+      "barrier_fwd_kcal": 1.114064451051592,
+      "barrier_rev_kcal": 1.284917810958125,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000060_node17"
+    },
+    {
+      "edge_id": 28,
+      "node_id_1": 8,
+      "node_id_2": 14,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000028.xyz",
+      "ts_energy_hartree": -18.773912049649,
+      "barrier_fwd_kcal": 1.978268623646786,
+      "barrier_rev_kcal": 1.8862593078169863,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000061_node8"
+    },
+    {
+      "edge_id": 29,
+      "node_id_1": 4,
+      "node_id_2": 4,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000029.xyz",
+      "ts_energy_hartree": -18.635398992163,
+      "barrier_fwd_kcal": 89.57170549933068,
+      "barrier_rev_kcal": 89.5717055074879,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000070_node11"
+    },
+    {
+      "edge_id": 30,
+      "node_id_1": 2,
+      "node_id_2": 10,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000030.xyz",
+      "ts_energy_hartree": -18.773069211564,
+      "barrier_fwd_kcal": 0.12046615135094611,
+      "barrier_rev_kcal": 1.5518809002920149,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000073_node2"
+    },
+    {
+      "edge_id": 31,
+      "node_id_1": 9,
+      "node_id_2": 32,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000031.xyz",
+      "ts_energy_hartree": -18.711522689102,
+      "barrier_fwd_kcal": 41.696352270300245,
+      "barrier_rev_kcal": 17.79555318871663,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000074_node2"
+    },
+    {
+      "edge_id": 32,
+      "node_id_1": 2,
+      "node_id_2": 15,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000032.xyz",
+      "ts_energy_hartree": -18.76551041593,
+      "barrier_fwd_kcal": 4.863682051955643,
+      "barrier_rev_kcal": 7.026761535464705,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000074_node2"
+    },
+    {
+      "edge_id": 33,
+      "node_id_1": 27,
+      "node_id_2": 12,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000033.xyz",
+      "ts_energy_hartree": -18.783928250996,
+      "barrier_fwd_kcal": 3.9991784506639316,
+      "barrier_rev_kcal": 4.01100031688222,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000079_node23"
+    },
+    {
+      "edge_id": 34,
+      "node_id_1": 23,
+      "node_id_2": 20,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000034.xyz",
+      "ts_energy_hartree": -18.787431585261,
+      "barrier_fwd_kcal": 0.8258879879117181,
+      "barrier_rev_kcal": 1.4939869690922407,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000084_node19"
+    },
+    {
+      "edge_id": 35,
+      "node_id_1": 26,
+      "node_id_2": 18,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000035.xyz",
+      "ts_energy_hartree": -18.788641790967,
+      "barrier_fwd_kcal": 1.0413874602756505,
+      "barrier_rev_kcal": 1.1085412099262726,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000085_node19"
+    },
+    {
+      "edge_id": 36,
+      "node_id_1": 7,
+      "node_id_2": 34,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000036.xyz",
+      "ts_energy_hartree": -18.772755588068,
+      "barrier_fwd_kcal": 1.2348687107817748,
+      "barrier_rev_kcal": 1.7486826265938142,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000088_node7"
+    },
+    {
+      "edge_id": 37,
+      "node_id_1": 5,
+      "node_id_2": 7,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000037.xyz",
+      "ts_energy_hartree": -18.770083617061,
+      "barrier_fwd_kcal": 3.378478441529696,
+      "barrier_rev_kcal": 2.9115558388322107,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000088_node7"
+    },
+    {
+      "edge_id": 38,
+      "node_id_1": 24,
+      "node_id_2": 24,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000038.xyz",
+      "ts_energy_hartree": -18.817920583499,
+      "barrier_fwd_kcal": 2.006784244255862,
+      "barrier_rev_kcal": 2.0067842423720514,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000091_node24"
+    },
+    {
+      "edge_id": 39,
+      "node_id_1": 35,
+      "node_id_2": 24,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000039.xyz",
+      "ts_energy_hartree": -18.753278342244,
+      "barrier_fwd_kcal": 29.472516625499324,
+      "barrier_rev_kcal": 42.57040305298906,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000113_node24"
+    },
+    {
+      "edge_id": 40,
+      "node_id_1": 35,
+      "node_id_2": 36,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000040.xyz",
+      "ts_energy_hartree": -18.800197684224,
+      "barrier_fwd_kcal": 0.030185018574292073,
+      "barrier_rev_kcal": 0.09384023661965132,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000159_node35"
+    },
+    {
+      "edge_id": 41,
+      "node_id_1": 28,
+      "node_id_2": 37,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000041.xyz",
+      "ts_energy_hartree": -18.78712286668,
+      "barrier_fwd_kcal": 1.0196117990722124,
+      "barrier_rev_kcal": 1.516857432266598,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000162_node30"
+    },
+    {
+      "edge_id": 42,
+      "node_id_1": 39,
+      "node_id_2": 38,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000042.xyz",
+      "ts_energy_hartree": -18.799469738681,
+      "barrier_fwd_kcal": 0.05908400229002496,
+      "barrier_rev_kcal": 0.5506329576416061,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000167_node38"
+    },
+    {
+      "edge_id": 43,
+      "node_id_1": 41,
+      "node_id_2": 40,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000043.xyz",
+      "ts_energy_hartree": -18.663069432388,
+      "barrier_fwd_kcal": 8.829272292461965,
+      "barrier_rev_kcal": 86.07946219181991,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000178_node40"
+    },
+    {
+      "edge_id": 44,
+      "node_id_1": 40,
+      "node_id_2": 42,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000044.xyz",
+      "ts_energy_hartree": -18.692699540847,
+      "barrier_fwd_kcal": 67.48628841689528,
+      "barrier_rev_kcal": 14.906264580675348,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000182_node40"
+    },
+    {
+      "edge_id": 45,
+      "node_id_1": 43,
+      "node_id_2": 38,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000045.xyz",
+      "ts_energy_hartree": -18.673922017296,
+      "barrier_fwd_kcal": 20.729386253307485,
+      "barrier_rev_kcal": 79.33301755642958,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000183_node39"
+    },
+    {
+      "edge_id": 46,
+      "node_id_1": 36,
+      "node_id_2": 39,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000046.xyz",
+      "ts_energy_hartree": -18.799469738668,
+      "barrier_fwd_kcal": 0.5506329639172587,
+      "barrier_rev_kcal": 0.059084003542926124,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000185_node36"
+    },
+    {
+      "edge_id": 47,
+      "node_id_1": 40,
+      "node_id_2": 40,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000047.xyz",
+      "ts_energy_hartree": -18.799870068475,
+      "barrier_fwd_kcal": 0.23576699988327926,
+      "barrier_rev_kcal": 0.23576699925682867,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000192_node40"
+    },
+    {
+      "edge_id": 48,
+      "node_id_1": 44,
+      "node_id_2": 45,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000048.xyz",
+      "ts_energy_hartree": -18.658316484524,
+      "barrier_fwd_kcal": 88.98973839262311,
+      "barrier_rev_kcal": 67.99116188833686,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000197_node35"
+    },
+    {
+      "edge_id": 49,
+      "node_id_1": 44,
+      "node_id_2": 46,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000049.xyz",
+      "ts_energy_hartree": -18.662581051407,
+      "barrier_fwd_kcal": 86.31364771722713,
+      "barrier_rev_kcal": 7.323193754208169,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000204_node44"
+    },
+    {
+      "edge_id": 50,
+      "node_id_1": 31,
+      "node_id_2": 47,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000050.xyz",
+      "ts_energy_hartree": -18.78793319429,
+      "barrier_fwd_kcal": 1.532301130681438,
+      "barrier_rev_kcal": 1.0204004981577484,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000210_node28"
+    },
+    {
+      "edge_id": 51,
+      "node_id_1": 47,
+      "node_id_2": 20,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000051.xyz",
+      "ts_energy_hartree": -18.785874532129,
+      "barrier_fwd_kcal": 2.3122305085801695,
+      "barrier_rev_kcal": 2.4710525490210906,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000210_node28"
+    },
+    {
+      "edge_id": 52,
+      "node_id_1": 48,
+      "node_id_2": 49,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000052.xyz",
+      "ts_energy_hartree": -18.580353522186,
+      "barrier_fwd_kcal": 116.94421883378008,
+      "barrier_rev_kcal": 76.42985481870944,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000214_node35"
+    },
+    {
+      "edge_id": 53,
+      "node_id_1": 39,
+      "node_id_2": 44,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000053.xyz",
+      "ts_energy_hartree": -18.799418246678,
+      "barrier_fwd_kcal": 0.09139572514400476,
+      "barrier_rev_kcal": 0.44704583724576985,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000223_node39"
+    },
+    {
+      "edge_id": 54,
+      "node_id_1": 35,
+      "node_id_2": 50,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000054.xyz",
+      "ts_energy_hartree": -18.692699540845,
+      "barrier_fwd_kcal": 67.48628841940554,
+      "barrier_rev_kcal": 14.906264581301798,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000225_node35"
+    },
+    {
+      "edge_id": 55,
+      "node_id_1": 38,
+      "node_id_2": 44,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000055.xyz",
+      "ts_energy_hartree": -18.799935132854,
+      "barrier_fwd_kcal": 0.25859369992019227,
+      "barrier_rev_kcal": 0.12262152340248951,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000226_node36"
+    },
+    {
+      "edge_id": 56,
+      "node_id_1": 36,
+      "node_id_2": 51,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000056.xyz",
+      "ts_energy_hartree": -18.658434382716,
+      "barrier_fwd_kcal": 89.0516549952714,
+      "barrier_rev_kcal": 67.94773909744603,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000244_node35"
+    },
+    {
+      "edge_id": 57,
+      "node_id_1": 52,
+      "node_id_2": 51,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000057.xyz",
+      "ts_energy_hartree": -18.765875486307,
+      "barrier_fwd_kcal": 0.09663408889393395,
+      "barrier_rev_kcal": 0.527428681389881,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000244_node35"
+    },
+    {
+      "edge_id": 58,
+      "node_id_1": 38,
+      "node_id_2": 51,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000058.xyz",
+      "ts_energy_hartree": -18.659474944051,
+      "barrier_fwd_kcal": 88.39869290179138,
+      "barrier_rev_kcal": 67.29477705416676,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000251_node39"
+    },
+    {
+      "edge_id": 59,
+      "node_id_1": 37,
+      "node_id_2": 30,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000059.xyz",
+      "ts_energy_hartree": -18.78778883237,
+      "barrier_fwd_kcal": 1.0989576630998024,
+      "barrier_rev_kcal": 1.6228896157177837,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000253_node37"
+    },
+    {
+      "edge_id": 60,
+      "node_id_1": 36,
+      "node_id_2": 38,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000060.xyz",
+      "ts_energy_hartree": -18.799622511001,
+      "barrier_fwd_kcal": 0.4547668750848776,
+      "barrier_rev_kcal": 0.4547668957934165,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000257_node39"
+    },
+    {
+      "edge_id": 61,
+      "node_id_1": 35,
+      "node_id_2": 51,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000061.xyz",
+      "ts_energy_hartree": -18.658084173823,
+      "barrier_fwd_kcal": 89.20775918424843,
+      "barrier_rev_kcal": 68.16749851262564,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000265_node35"
+    },
+    {
+      "edge_id": 62,
+      "node_id_1": 35,
+      "node_id_2": 35,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000062.xyz",
+      "ts_energy_hartree": -18.799958959488,
+      "barrier_fwd_kcal": 0.17998706150512284,
+      "barrier_rev_kcal": 0.17998705334788911,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000283_node35"
+    },
+    {
+      "edge_id": 63,
+      "node_id_1": 40,
+      "node_id_2": 38,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000063.xyz",
+      "ts_energy_hartree": -18.800197684192,
+      "barrier_fwd_kcal": 0.030185028615336233,
+      "barrier_rev_kcal": 0.0938402579546408,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000288_node40"
+    },
+    {
+      "edge_id": 64,
+      "node_id_1": 53,
+      "node_id_2": 35,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000064.xyz",
+      "ts_energy_hartree": -18.672228566895,
+      "barrier_fwd_kcal": 20.25168844321427,
+      "barrier_rev_kcal": 80.33201851629131,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000291_node36"
+    },
+    {
+      "edge_id": 65,
+      "node_id_1": 54,
+      "node_id_2": 55,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000065.xyz",
+      "ts_energy_hartree": -18.704303067823,
+      "barrier_fwd_kcal": 1.9551402873371837,
+      "barrier_rev_kcal": 0.009180820658539231,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000291_node36"
+    },
+    {
+      "edge_id": 66,
+      "node_id_1": 20,
+      "node_id_2": 31,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000066.xyz",
+      "ts_energy_hartree": -18.788210576358,
+      "barrier_fwd_kcal": 1.0051626648953331,
+      "barrier_rev_kcal": 1.3582412613699437,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000296_node47"
+    },
+    {
+      "edge_id": 67,
+      "node_id_1": 27,
+      "node_id_2": 20,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000067.xyz",
+      "ts_energy_hartree": -18.786945254677,
+      "barrier_fwd_kcal": 2.1059800364073165,
+      "barrier_rev_kcal": 1.7991640098885529,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000308_node31"
+    },
+    {
+      "edge_id": 68,
+      "node_id_1": 21,
+      "node_id_2": 56,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000068.xyz",
+      "ts_energy_hartree": -18.787407896238,
+      "barrier_fwd_kcal": 1.5571630008216475,
+      "barrier_rev_kcal": 0.9955394657447066,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000343_node25"
+    },
+    {
+      "edge_id": 69,
+      "node_id_1": 25,
+      "node_id_2": 12,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000069.xyz",
+      "ts_energy_hartree": -18.786344330557,
+      "barrier_fwd_kcal": 2.281909976196518,
+      "barrier_rev_kcal": 2.5502193795771335,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000346_node26"
+    },
+    {
+      "edge_id": 70,
+      "node_id_1": 57,
+      "node_id_2": 53,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000070.xyz",
+      "ts_energy_hartree": -18.70409770236,
+      "barrier_fwd_kcal": 0.1879248957092528,
+      "barrier_rev_kcal": 0.25350400948361823,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000349_node35"
+    },
+    {
+      "edge_id": 71,
+      "node_id_1": 38,
+      "node_id_2": 48,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000071.xyz",
+      "ts_energy_hartree": -18.659474944056,
+      "barrier_fwd_kcal": 88.39869289425837,
+      "barrier_rev_kcal": 67.29477698890443,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000397_node39"
+    },
+    {
+      "edge_id": 72,
+      "node_id_1": 52,
+      "node_id_2": 51,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000072.xyz",
+      "ts_energy_hartree": -18.640195120075,
+      "barrier_fwd_kcal": 78.96225459275354,
+      "barrier_rev_kcal": 79.3930492291746,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000407_node38"
+    },
+    {
+      "edge_id": 73,
+      "node_id_1": 30,
+      "node_id_2": 31,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000073.xyz",
+      "ts_energy_hartree": -18.788553379676,
+      "barrier_fwd_kcal": 1.1431288738756233,
+      "barrier_rev_kcal": 1.1431288694837813,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000414_node31"
+    },
+    {
+      "edge_id": 74,
+      "node_id_1": 29,
+      "node_id_2": 37,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000074.xyz",
+      "ts_energy_hartree": -18.782412100095,
+      "barrier_fwd_kcal": 4.643761460964889,
+      "barrier_rev_kcal": 4.4729081123545305,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000429_node30"
+    },
+    {
+      "edge_id": 75,
+      "node_id_1": 51,
+      "node_id_2": 36,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000075.xyz",
+      "ts_energy_hartree": -18.597586166973,
+      "barrier_fwd_kcal": 106.1305709929631,
+      "barrier_rev_kcal": 127.23448685251034,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000435_node36"
+    },
+    {
+      "edge_id": 76,
+      "node_id_1": 18,
+      "node_id_2": 26,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000076.xyz",
+      "ts_energy_hartree": -18.783928251003,
+      "barrier_fwd_kcal": 4.01100029428987,
+      "barrier_rev_kcal": 3.9991784506639316,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000438_node26"
+    },
+    {
+      "edge_id": 77,
+      "node_id_1": 30,
+      "node_id_2": 20,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000077.xyz",
+      "ts_energy_hartree": -18.788210576346,
+      "barrier_fwd_kcal": 1.3582412312490406,
+      "barrier_rev_kcal": 1.0051626642666531,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000444_node20"
+    },
+    {
+      "edge_id": 78,
+      "node_id_1": 58,
+      "node_id_2": 26,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000078.xyz",
+      "ts_energy_hartree": -18.786785888172,
+      "barrier_fwd_kcal": 2.0048283894683725,
+      "barrier_rev_kcal": 2.205984046332848,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000465_node33"
+    },
+    {
+      "edge_id": 79,
+      "node_id_1": 59,
+      "node_id_2": 21,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000079.xyz",
+      "ts_energy_hartree": -18.78740789624,
+      "barrier_fwd_kcal": 0.9955394613528645,
+      "barrier_rev_kcal": 1.5571629901541526,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000472_node47"
+    },
+    {
+      "edge_id": 80,
+      "node_id_1": 60,
+      "node_id_2": 35,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000080.xyz",
+      "ts_energy_hartree": -18.672228566893,
+      "barrier_fwd_kcal": 20.25168844384072,
+      "barrier_rev_kcal": 80.33201851503618,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000487_node38"
+    },
+    {
+      "edge_id": 81,
+      "node_id_1": 61,
+      "node_id_2": 62,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000081.xyz",
+      "ts_energy_hartree": -18.703853718694,
+      "barrier_fwd_kcal": 0.043339020260731574,
+      "barrier_rev_kcal": 0.1473292100725997,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000487_node38"
+    },
+    {
+      "edge_id": 82,
+      "node_id_1": 44,
+      "node_id_2": 44,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000082.xyz",
+      "ts_energy_hartree": -18.79979938455,
+      "barrier_fwd_kcal": 0.20753576656905678,
+      "barrier_rev_kcal": 0.20743252808431922,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000492_node44"
+    },
+    {
+      "edge_id": 83,
+      "node_id_1": 30,
+      "node_id_2": 58,
+      "ts_xyz_file": "</absolute/path/to/>mapper_output/nodes/TS000083.xyz",
+      "ts_energy_hartree": -18.787888015795,
+      "barrier_fwd_kcal": 1.560651083768525,
+      "barrier_rev_kcal": 1.3132328638503055,
+      "source_run_dir": "</absolute/path/to/>mapper_output/runs/run_000496_node37"
+    }
+  ],
+  "metadata": {
+    "n_nodes": 63,
+    "n_edges": 84
+  }
+}
