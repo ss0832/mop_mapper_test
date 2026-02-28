@@ -39,9 +39,22 @@ Completion Status: The process reached an exhaustive state after 10,000 resampli
 ```
 2026-02-27 21:04:46 [INFO    ] multioptpy.Wrapper.mapper: All candidate (EQ, pair) combinations appear exhausted after 10000 resampling attempts. Stopping.
 ```
+### Identification of Transition State Conformers
+- During the exploration of the Claisen rearrangement, the mapping algorithm identified four transition state geometries. These states correspond to chair and boat topologies, including their respective enantiomeric pairs:
+
+- Chair-like Transition States: A chair-like geometry (TS000000.xyz) and its enantiomer (TS000061.xyz) were located. The activation barrier from the reactant to the product for this pathway is $ΔE^{‡}$ = 19.78 kcal/mol at the GFN2-xTB level. This result is close from a numerical perspective to the general model where the chair conformation provides a lower-energy pathway.
+
+- Boat-like Transition States: A boat-like transition state (TS000022.xyz) and its enantiomer (TS000074.xyz) were identified. The corresponding activation barrier for this pathway was calculated as $ΔE^{‡}$ = 27.26 kcal/mol. This relative increase structurally corresponds to the higher-energy nature typically associated with boat conformations.
+
+### Conclusion and Limitations
+The reaction pathway exploration using GFN2-xTB reproduced the qualitative trend wherein the chair-like pathway exhibits a lower activation barrier compared to the boat-like pathway. 
+
+However, the interpretation of the numerical results requires strict limitations. The calculated electronic activation barrier ($\Delta E^{\ddagger}$) for the primary chair-like transition state is 19.78 kcal/mol. This value is numerically lower than the experimental macroscopic activation free energy ($\Delta G^{\ddagger}$ = 139.5 kJ/mol, approximately 33.3 kcal/mol at 469.1 K) reported for the Claisen rearrangement of allyl vinyl ether (_J. Am. Chem. Soc._ 1950, 72, 7, 3155–3159). This discrepancy reflects the inherent accuracy limitations of semi-empirical approaches and the absence of thermodynamic corrections (e.g., zero-point energy and entropy contributions) in the present raw $\Delta E^{\ddagger}$ values.
+
 
 ### References
-[1] C. Bannwarth, S. Ehlert, and S. Grimme, J. Chem. Theory Comput. 2019, 15, 3, 1652–1671.
+[1] C. Bannwarth, S. Ehlert, and S. Grimme, _J. Chem. Theory Comput._ 2019, 15, 3, 1652–1671.
+[2] F. W. Schuler and G. W. Murphy, _J. Am. Chem. Soc._ 1950, 72, 7, 3155–3159.
 
 
 
