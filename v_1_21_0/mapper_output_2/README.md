@@ -49,12 +49,13 @@ Completion Status: The process reached an exhaustive state after 10,000 resampli
 ### Conclusion and Limitations
 The reaction pathway exploration using GFN2-xTB reproduced the qualitative trend wherein the chair-like pathway exhibits a lower activation barrier compared to the boat-like pathway. 
 
-However, the interpretation of the numerical results requires strict limitations. The calculated electronic activation barrier ($\Delta E^{\ddagger}$) for the primary chair-like transition state is 19.78 kcal/mol. This value is numerically lower than the experimental macroscopic activation free energy ($\Delta G^{\ddagger}$ = 139.5 kJ/mol, approximately 33.3 kcal/mol at 469.1 K) reported for the Claisen rearrangement of allyl vinyl ether (_J. Am. Chem. Soc._ 1950, 72, 7, 3155–3159). This discrepancy reflects the inherent accuracy limitations of semi-empirical approaches and the absence of thermodynamic corrections (e.g., zero-point energy and entropy contributions) in the present raw $\Delta E^{\ddagger}$ values.
+However, the interpretation of the numerical results requires strict limitations. The calculated electronic activation barrier ($\Delta E^{\ddagger}$) for the primary chair-like transition state is 19.78 kcal/mol. This value is numerically lower than the experimental macroscopic activation free energy ($\Delta G^{\ddagger}$ ≈ 33.3 kcal/mol at 469.1 K) reported for the Claisen rearrangement of allyl vinyl ether (_J. Am. Chem. Soc._ 1950, 72, 7, 3155–3159). This discrepancy reflects the inherent accuracy limitations of semi-empirical approaches and the absence of thermodynamic corrections (e.g., zero-point energy and entropy contributions) in the present raw $\Delta E^{\ddagger}$ values.
 
 
 ### References
 [1] C. Bannwarth, S. Ehlert, and S. Grimme, _J. Chem. Theory Comput._ 2019, 15, 3, 1652–1671.
 [2] F. W. Schuler and G. W. Murphy, _J. Am. Chem. Soc._ 1950, 72, 7, 3155–3159.
+
 
 
 
