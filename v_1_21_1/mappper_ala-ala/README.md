@@ -1,3 +1,5 @@
+**Note**: The directory/project name refers to `ala-ala`, but the actual model used for all simulations and analyses is `N-acetyl-N'-methylalaninamide (Ac-Ala-NHMe)`, which is the standard benchmark model for alanine dipeptide studies.
+
 Although the exploration was configured for 1,000 iterations, the execution was prematurely terminated at iteration 411 following an unexpected operating system failure.
 
 <memo>
@@ -139,4 +141,5 @@ automatically excluded from the minimax path calculations.
 
 ### Reference
 - Spicher, S.; Grimme, S. Robust Atomistic Modeling of Materials, Organometallic, and Biochemical Systems. Angew. Chem. Int. Ed. 2020, 59 (36), 15665–15673.
+
 
