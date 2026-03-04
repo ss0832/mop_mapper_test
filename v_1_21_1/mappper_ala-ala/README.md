@@ -102,6 +102,8 @@ NOTE: All barriers are GFN-FF potential energy barriers (kcal/mol).
 
 An effective activation barrier analysis was performed to evaluate the kinetic connectivity between the identified conformational basins. The basin-to-basin transition barriers were derived by finding the minimax path (the pathway minimizing the highest transition state energy) between sets of nodes assigned to each conformation basin on the Minimum Spanning Tree (MST) of the reaction network.
 
+*The minimax path (the path minimizing the maximum edge weight between any two nodes) is computed via the unique path on the MST, which is guaranteed to be the exact minimax path by the cut property of MSTs [Cormen et al., Introduction to Algorithms, 4th ed., MIT Press, 2022].
+
 #### Key Observations
 
 - **Fast Equilibrium in Extended States:**
@@ -137,3 +139,4 @@ automatically excluded from the minimax path calculations.
 
 ### Reference
 - Spicher, S.; Grimme, S. Robust Atomistic Modeling of Materials, Organometallic, and Biochemical Systems. Angew. Chem. Int. Ed. 2020, 59 (36), 15665–15673.
+
