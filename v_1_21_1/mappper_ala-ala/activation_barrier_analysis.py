@@ -106,7 +106,7 @@ def main():
     # Node 6 (C7eq) resides in an isolated component and is excluded
     # automatically by the connectivity filter below.
     # =========================================================================
-    macro_groups_raw = {
+    basin_groups_raw = {
         "C5"     : [0, 12, 21, 31, 33, 37],
         "C7eq"   : [6, 14, 26],
         "alpha_R": [10, 20, 22, 35],
@@ -114,34 +114,34 @@ def main():
         "C7ax"   : [11, 15],
     }
 
-    # Restrict each macrostate to nodes present in the main component.
-    macro_groups = {}
-    for macro_name, nodes in macro_groups_raw.items():
+    # Restrict each conformational basin to nodes present in the main component.
+    basin_groups = {}
+    for basin_name, nodes in basin_groups_raw.items():
         reachable = [n for n in nodes if n in main_component]
         excluded  = [n for n in nodes if n not in main_component]
 
         if excluded:
             print(
-                f"NOTE: Node(s) {excluded} assigned to '{macro_name}' are isolated "
+                f"NOTE: Node(s) {excluded} assigned to '{basin_name}' are isolated "
                 f"and will be excluded from barrier calculations."
             )
         if reachable:
-            macro_groups[macro_name] = reachable
+            basin_groups[basin_name] = reachable
         else:
             print(
-                f"WARNING: Macrostate '{macro_name}' has no reachable nodes after "
+                f"WARNING: Basin '{basin_name}' has no reachable nodes after "
                 f"excluding isolated components — skipping entirely."
             )
 
-    if macro_groups != macro_groups_raw:
+    if basin_groups != basin_groups_raw:
         print()
 
     # =========================================================================
     # Basin minimum potential energies
     # =========================================================================
-    macro_min_energy = {
+    basin_min_energy = {
         name: min(node_energies[n] for n in nodes)
-        for name, nodes in macro_groups.items()
+        for name, nodes in basin_groups.items()
     }
 
     # =========================================================================
@@ -150,8 +150,8 @@ def main():
     conversion = 627.509  # Hartree -> kcal/mol
 
     results = []
-    for m1, nodes_m1 in macro_groups.items():
-        for m2, nodes_m2 in macro_groups.items():
+    for m1, nodes_m1 in basin_groups.items():
+        for m2, nodes_m2 in basin_groups.items():
             if m1 == m2:
                 continue
 
@@ -182,7 +182,7 @@ def main():
                 )
                 continue
 
-            barrier_kcal = (min_bottleneck - macro_min_energy[m1]) * conversion
+            barrier_kcal = (min_bottleneck - basin_min_energy[m1]) * conversion
             results.append((m1, m2, barrier_kcal, best_path_info))
 
     # =========================================================================
@@ -202,8 +202,8 @@ def main():
         print(f"{origin:<12} | {destination:<12} | {barrier:>20.2f} | {path_str}")
 
     print()
-    print("=== Lowest escape barrier per macrostate ===")
-    for m1 in macro_groups:
+    print("=== Lowest escape barrier per conformational basin ===")
+    for m1 in basin_groups:
         outgoing = [(b, dest) for (orig, dest, b, _) in results if orig == m1]
         if outgoing:
             b_min, dest_min = min(outgoing, key=lambda x: x[0])
