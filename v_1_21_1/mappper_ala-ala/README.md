@@ -86,7 +86,7 @@ C7ax         | alpha_L      |                 8.41 | 11 -> 4 -> 3 -> 1 -> 0 -> 2
 C7eq         | alpha_R      |                 8.78 | 14 -> 13 -> 0 -> 27 -> 23 -> 15 -> 9 -> 8 -> 20
 C7eq         | alpha_L      |                 8.78 | 14 -> 13 -> 0 -> 27 -> 23 -> 15 -> 9
 
-=== Lowest escape barrier per macrostate ===
+=== Lowest escape barrier per conformational basin ===
   C5          : 1.16 kcal/mol  ->  C7eq
   C7eq        : 1.89 kcal/mol  ->  C5
   alpha_R     : 3.35 kcal/mol  ->  alpha_L
@@ -98,4 +98,40 @@ NOTE: All barriers are GFN-FF potential energy barriers (kcal/mol).
       must not be interpreted as free-energy barriers.
 ```
 
+### Kinetic Network Analysis and Basin-to-Basin Activation Barriers
+
+An effective activation barrier analysis was performed to evaluate the kinetic connectivity between the identified conformational basins. The basin-to-basin transition barriers were derived by finding the minimax path (the pathway minimizing the highest transition state energy) between sets of nodes assigned to each conformation basin on the Minimum Spanning Tree (MST) of the reaction network.
+
+#### Key Observations
+
+- **Fast Equilibrium in Extended States:**
+  The lowest activation barriers were observed between the $C_5$ and $C_{7\mathrm{eq}}$ states
+  (1.16 kcal/mol for $C_5 \to C_{7\mathrm{eq}}$, and 1.89 kcal/mol for $C_{7\mathrm{eq}} \to C_5$),
+  suggesting that these extended structures interconvert rapidly and together constitute the dominant
+  potential energy minimum of the system under vacuum conditions.
+
+
+- **Rate-Limiting Steps:**
+  Transitions from the extended states ($C_5$, $C_{7\mathrm{eq}}$) to the helical states ($\alpha_R$, $\alpha_L$)
+  require substantially higher activation energies (e.g., 7.62 kcal/mol for $C_5 \to \alpha_R$),
+  representing the kinetic bottleneck for large-scale conformational reorganization.
+
+- **Potential Energy Preference:**
+  The barrier for escaping $\alpha_R$ toward $C_5$ (4.79 kcal/mol) is lower than the reverse (7.62 kcal/mol),
+  satisfying detailed balance. This is consistent with the well-established result that extended conformations
+  are energetically favored over helical ones in the gas phase owing to intramolecular hydrogen bonding.
+
+#### Computational Limitations
+
+The quantitative barrier values are derived from the GFN-FF force field and represent **potential energy
+barriers only**; zero-point energy, entropic contributions, and thermal corrections are not included,
+and the values should not be interpreted as free-energy barriers. The accuracy of GFN-FF transition-state
+energies has not been systematically validated against high-level *ab initio* references for this system,
+and quantitative comparison with experiment should be treated with caution.
+
+A near-zero reverse barrier on one edge (edge 95, $\Delta E_\mathrm{rev} = 0.004$ kcal/mol) was detected;
+this is consistent with a nearly barrierless region of the potential energy surface rather than an
+optimization artifact, as the stored forward barrier (0.307 kcal/mol) is physically reasonable.
+Additionally, isolated nodes (e.g., node 6) lacking TS connections to the main graph component were
+automatically excluded from the minimax path calculations.
 
