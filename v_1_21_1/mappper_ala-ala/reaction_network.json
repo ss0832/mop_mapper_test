@@ -1,0 +1,1308 @@
+{
+  "nodes": [
+    {
+      "node_id": 0,
+      "xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/EQ000000.xyz",
+      "energy_hartree": -3.6326064743313364,
+      "source_run_dir": "initial_optimization"
+    },
+    {
+      "node_id": 1,
+      "xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/EQ000001.xyz",
+      "energy_hartree": -3.633771711472,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000001_node0"
+    },
+    {
+      "node_id": 2,
+      "xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/EQ000002.xyz",
+      "energy_hartree": -3.630182234077,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000005_node0"
+    },
+    {
+      "node_id": 3,
+      "xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/EQ000003.xyz",
+      "energy_hartree": -3.632698136614,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000005_node0"
+    },
+    {
+      "node_id": 4,
+      "xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/EQ000004.xyz",
+      "energy_hartree": -3.630773673479,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000006_node0"
+    },
+    {
+      "node_id": 5,
+      "xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/EQ000005.xyz",
+      "energy_hartree": -3.624354748373,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000007_node0"
+    },
+    {
+      "node_id": 6,
+      "xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/EQ000006.xyz",
+      "energy_hartree": -3.624590121129,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000007_node0"
+    },
+    {
+      "node_id": 7,
+      "xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/EQ000007.xyz",
+      "energy_hartree": -3.625535551774,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000007_node0"
+    },
+    {
+      "node_id": 8,
+      "xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/EQ000008.xyz",
+      "energy_hartree": -3.624354748371,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000007_node0"
+    },
+    {
+      "node_id": 9,
+      "xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/EQ000009.xyz",
+      "energy_hartree": -3.626479130997,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000007_node0"
+    },
+    {
+      "node_id": 10,
+      "xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/EQ000010.xyz",
+      "energy_hartree": -3.62809151381,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000007_node0"
+    },
+    {
+      "node_id": 11,
+      "xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/EQ000011.xyz",
+      "energy_hartree": -3.633184263727,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000008_node0"
+    },
+    {
+      "node_id": 12,
+      "xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/EQ000012.xyz",
+      "energy_hartree": -3.628533240589,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000011_node0"
+    },
+    {
+      "node_id": 13,
+      "xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/EQ000013.xyz",
+      "energy_hartree": -3.631247847042,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000013_node0"
+    },
+    {
+      "node_id": 14,
+      "xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/EQ000014.xyz",
+      "energy_hartree": -3.633771711473,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000013_node0"
+    },
+    {
+      "node_id": 15,
+      "xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/EQ000015.xyz",
+      "energy_hartree": -3.633184263728,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000021_node1"
+    },
+    {
+      "node_id": 16,
+      "xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/EQ000016.xyz",
+      "energy_hartree": -3.630182234073,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000031_node1"
+    },
+    {
+      "node_id": 17,
+      "xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/EQ000017.xyz",
+      "energy_hartree": -3.625939971899,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000055_node14"
+    },
+    {
+      "node_id": 18,
+      "xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/EQ000018.xyz",
+      "energy_hartree": -3.625194433578,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000062_node11"
+    },
+    {
+      "node_id": 19,
+      "xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/EQ000019.xyz",
+      "energy_hartree": -3.622398376663,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000065_node11"
+    },
+    {
+      "node_id": 20,
+      "xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/EQ000020.xyz",
+      "energy_hartree": -3.62730275401,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000067_node11"
+    },
+    {
+      "node_id": 21,
+      "xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/EQ000021.xyz",
+      "energy_hartree": -3.620630030797,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000077_node11"
+    },
+    {
+      "node_id": 22,
+      "xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/EQ000022.xyz",
+      "energy_hartree": -3.627608841641,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000077_node11"
+    },
+    {
+      "node_id": 23,
+      "xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/EQ000023.xyz",
+      "energy_hartree": -3.63077367348,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000086_node15"
+    },
+    {
+      "node_id": 24,
+      "xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/EQ000024.xyz",
+      "energy_hartree": -3.6240712816,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000095_node15"
+    },
+    {
+      "node_id": 25,
+      "xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/EQ000025.xyz",
+      "energy_hartree": -3.625194433578,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000097_node15"
+    },
+    {
+      "node_id": 26,
+      "xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/EQ000026.xyz",
+      "energy_hartree": -3.628533240589,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000111_node3"
+    },
+    {
+      "node_id": 27,
+      "xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/EQ000027.xyz",
+      "energy_hartree": -3.631247847041,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000124_node23"
+    },
+    {
+      "node_id": 28,
+      "xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/EQ000028.xyz",
+      "energy_hartree": -3.625939971828,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000129_node23"
+    },
+    {
+      "node_id": 29,
+      "xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/EQ000029.xyz",
+      "energy_hartree": -3.61971151854,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000151_node26"
+    },
+    {
+      "node_id": 30,
+      "xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/EQ000030.xyz",
+      "energy_hartree": -3.622401128907,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000155_node26"
+    },
+    {
+      "node_id": 31,
+      "xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/EQ000031.xyz",
+      "energy_hartree": -3.620392576705,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000155_node26"
+    },
+    {
+      "node_id": 32,
+      "xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/EQ000032.xyz",
+      "energy_hartree": -3.6240712816,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000182_node20"
+    },
+    {
+      "node_id": 33,
+      "xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/EQ000033.xyz",
+      "energy_hartree": -3.625171325286,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000183_node10"
+    },
+    {
+      "node_id": 34,
+      "xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/EQ000034.xyz",
+      "energy_hartree": -3.622398376661,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000229_node11"
+    },
+    {
+      "node_id": 35,
+      "xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/EQ000035.xyz",
+      "energy_hartree": -3.623698733432,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000278_node22"
+    },
+    {
+      "node_id": 36,
+      "xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/EQ000036.xyz",
+      "energy_hartree": -3.620630030798,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000279_node3"
+    },
+    {
+      "node_id": 37,
+      "xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/EQ000037.xyz",
+      "energy_hartree": -3.620392576708,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000373_node32"
+    }
+  ],
+  "edges": [
+    {
+      "edge_id": 0,
+      "node_id_1": 1,
+      "node_id_2": 1,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000000.xyz",
+      "ts_energy_hartree": -3.633274477622,
+      "barrier_fwd_kcal": 0.3120189516684953,
+      "barrier_rev_kcal": 0.3120189522960605,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000001_node0"
+    },
+    {
+      "edge_id": 1,
+      "node_id_1": 0,
+      "node_id_2": 0,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000001.xyz",
+      "ts_energy_hartree": -3.632573262621,
+      "barrier_fwd_kcal": 0.07835961303627456,
+      "barrier_rev_kcal": 0.02084796437303559,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000002_node0"
+    },
+    {
+      "edge_id": 2,
+      "node_id_1": 0,
+      "node_id_2": 0,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000002.xyz",
+      "ts_energy_hartree": -3.627762805456,
+      "barrier_fwd_kcal": 3.096967058972558,
+      "barrier_rev_kcal": 3.0969670583449926,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000003_node0"
+    },
+    {
+      "edge_id": 3,
+      "node_id_1": 1,
+      "node_id_2": 0,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000003.xyz",
+      "ts_energy_hartree": -3.631522898768,
+      "barrier_fwd_kcal": 1.4111512770114967,
+      "barrier_rev_kcal": 0.7374728819408847,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000004_node0"
+    },
+    {
+      "edge_id": 4,
+      "node_id_1": 2,
+      "node_id_2": 3,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000004.xyz",
+      "ts_energy_hartree": -3.612889692337,
+      "barrier_fwd_kcal": 10.851233771390339,
+      "barrier_rev_kcal": 12.42998644901852,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000005_node0"
+    },
+    {
+      "edge_id": 5,
+      "node_id_1": 4,
+      "node_id_2": 0,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000005.xyz",
+      "ts_energy_hartree": -3.629001702784,
+      "barrier_fwd_kcal": 1.1119283987629425,
+      "barrier_rev_kcal": 2.262035594655665,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000006_node0"
+    },
+    {
+      "edge_id": 6,
+      "node_id_1": 5,
+      "node_id_2": 3,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000006.xyz",
+      "ts_energy_hartree": -3.613597084762,
+      "barrier_fwd_kcal": 6.750535834007446,
+      "barrier_rev_kcal": 11.986091000495284,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000007_node0"
+    },
+    {
+      "edge_id": 7,
+      "node_id_1": 6,
+      "node_id_2": 7,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000007.xyz",
+      "ts_energy_hartree": -3.62454033957,
+      "barrier_fwd_kcal": 0.03123839990294505,
+      "barrier_rev_kcal": 0.6245050866502855,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000007_node0"
+    },
+    {
+      "edge_id": 8,
+      "node_id_1": 8,
+      "node_id_2": 9,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000008.xyz",
+      "ts_energy_hartree": -3.623675284474,
+      "barrier_fwd_kcal": 0.4263700326086127,
+      "barrier_rev_kcal": 1.7594402568246175,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000007_node0"
+    },
+    {
+      "edge_id": 9,
+      "node_id_1": 9,
+      "node_id_2": 10,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000009.xyz",
+      "ts_energy_hartree": -3.616555573988,
+      "barrier_fwd_kcal": 6.112173050271501,
+      "barrier_rev_kcal": 7.238911529798641,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000007_node0"
+    },
+    {
+      "edge_id": 10,
+      "node_id_1": 0,
+      "node_id_2": 11,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000010.xyz",
+      "ts_energy_hartree": -3.626979769631,
+      "barrier_fwd_kcal": 3.5883294570136552,
+      "barrier_rev_kcal": 3.8933788266170595,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000008_node0"
+    },
+    {
+      "edge_id": 11,
+      "node_id_1": 9,
+      "node_id_2": 3,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000011.xyz",
+      "ts_energy_hartree": -3.613571075606,
+      "barrier_fwd_kcal": 7.984974059486739,
+      "barrier_rev_kcal": 12.002411992296052,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000009_node0"
+    },
+    {
+      "edge_id": 12,
+      "node_id_1": 0,
+      "node_id_2": 12,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000012.xyz",
+      "ts_energy_hartree": -3.612316035065,
+      "barrier_fwd_kcal": 12.789961822027573,
+      "barrier_rev_kcal": 10.176450108114974,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000011_node0"
+    },
+    {
+      "edge_id": 13,
+      "node_id_1": 13,
+      "node_id_2": 14,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000013.xyz",
+      "ts_energy_hartree": -3.630751922362,
+      "barrier_fwd_kcal": 0.3111974350904416,
+      "barrier_rev_kcal": 1.8949462766343868,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000013_node0"
+    },
+    {
+      "edge_id": 14,
+      "node_id_1": 13,
+      "node_id_2": 0,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000014.xyz",
+      "ts_energy_hartree": -3.631209064283,
+      "barrier_fwd_kcal": 0.020578529375054257,
+      "barrier_rev_kcal": 0.9344069951738592,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000013_node0"
+    },
+    {
+      "edge_id": 15,
+      "node_id_1": 1,
+      "node_id_2": 3,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000015.xyz",
+      "ts_energy_hartree": -3.631522898766,
+      "barrier_fwd_kcal": 1.4111512788939138,
+      "barrier_rev_kcal": 0.7374728618604683,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000013_node0"
+    },
+    {
+      "edge_id": 16,
+      "node_id_1": 10,
+      "node_id_2": 1,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000016.xyz",
+      "ts_energy_hartree": -3.619610396482,
+      "barrier_fwd_kcal": 4.827027226215299,
+      "barrier_rev_kcal": 8.886359320523184,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000015_node0"
+    },
+    {
+      "edge_id": 17,
+      "node_id_1": 15,
+      "node_id_2": 9,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000017.xyz",
+      "ts_energy_hartree": -3.6125007515,
+      "barrier_fwd_kcal": 12.979099878664861,
+      "barrier_rev_kcal": 8.395169067783407,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000021_node1"
+    },
+    {
+      "edge_id": 18,
+      "node_id_1": 1,
+      "node_id_2": 1,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000018.xyz",
+      "ts_energy_hartree": -3.6295312689,
+      "barrier_fwd_kcal": 2.660917869685041,
+      "barrier_rev_kcal": 2.6609178885103266,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000022_node1"
+    },
+    {
+      "edge_id": 19,
+      "node_id_1": 1,
+      "node_id_2": 9,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000019.xyz",
+      "ts_energy_hartree": -3.611685747682,
+      "barrier_fwd_kcal": 13.859151521273473,
+      "barrier_rev_kcal": 9.282988182676178,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000027_node1"
+    },
+    {
+      "edge_id": 20,
+      "node_id_1": 15,
+      "node_id_2": 9,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000020.xyz",
+      "ts_energy_hartree": -3.619785474786,
+      "barrier_fwd_kcal": 8.40786700123128,
+      "barrier_rev_kcal": 3.8239361903498255,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000027_node1"
+    },
+    {
+      "edge_id": 21,
+      "node_id_1": 16,
+      "node_id_2": 1,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000021.xyz",
+      "ts_energy_hartree": -3.61270206931,
+      "barrier_fwd_kcal": 10.96896899586351,
+      "barrier_rev_kcal": 13.221400071072283,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000031_node1"
+    },
+    {
+      "edge_id": 22,
+      "node_id_1": 15,
+      "node_id_2": 1,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000022.xyz",
+      "ts_energy_hartree": -3.62198865352,
+      "barrier_fwd_kcal": 7.025351470848676,
+      "barrier_rev_kcal": 7.393980498198579,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000032_node1"
+    },
+    {
+      "edge_id": 23,
+      "node_id_1": 3,
+      "node_id_2": 16,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000023.xyz",
+      "ts_energy_hartree": -3.616138900112,
+      "barrier_fwd_kcal": 10.391077787211742,
+      "barrier_rev_kcal": 8.812325109583563,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000034_node1"
+    },
+    {
+      "edge_id": 24,
+      "node_id_1": 3,
+      "node_id_2": 3,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000024.xyz",
+      "ts_energy_hartree": -3.632573262615,
+      "barrier_fwd_kcal": 0.0783596161738222,
+      "barrier_rev_kcal": 0.02084796813814848,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000037_node1"
+    },
+    {
+      "edge_id": 25,
+      "node_id_1": 1,
+      "node_id_2": 2,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000025.xyz",
+      "ts_energy_hartree": -3.609076872851,
+      "barrier_fwd_kcal": 15.496245194206141,
+      "barrier_rev_kcal": 13.243814115232254,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000043_node14"
+    },
+    {
+      "edge_id": 26,
+      "node_id_1": 2,
+      "node_id_2": 2,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000026.xyz",
+      "ts_energy_hartree": -3.625801522008,
+      "barrier_fwd_kcal": 2.7489383261636644,
+      "barrier_rev_kcal": 2.7489383261636644,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000043_node14"
+    },
+    {
+      "edge_id": 27,
+      "node_id_1": 12,
+      "node_id_2": 12,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000027.xyz",
+      "ts_energy_hartree": -3.627144891006,
+      "barrier_fwd_kcal": 0.8712025171839054,
+      "barrier_rev_kcal": 0.8712025171839054,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000045_node14"
+    },
+    {
+      "edge_id": 28,
+      "node_id_1": 3,
+      "node_id_2": 11,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000028.xyz",
+      "ts_energy_hartree": -3.626807252712,
+      "barrier_fwd_kcal": 3.639073810075841,
+      "barrier_rev_kcal": 4.001634827087353,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000047_node14"
+    },
+    {
+      "edge_id": 29,
+      "node_id_1": 0,
+      "node_id_2": 8,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000029.xyz",
+      "ts_energy_hartree": -3.61356041242,
+      "barrier_fwd_kcal": 12.009103240651356,
+      "barrier_rev_kcal": 6.773548076046214,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000051_node14"
+    },
+    {
+      "edge_id": 30,
+      "node_id_1": 3,
+      "node_id_2": 3,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000030.xyz",
+      "ts_energy_hartree": -3.61580667239,
+      "barrier_fwd_kcal": 10.542042181001188,
+      "barrier_rev_kcal": 10.599553829036862,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000055_node14"
+    },
+    {
+      "edge_id": 31,
+      "node_id_1": 12,
+      "node_id_2": 17,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000031.xyz",
+      "ts_energy_hartree": -3.619186074923,
+      "barrier_fwd_kcal": 5.865435011090099,
+      "barrier_rev_kcal": 4.238134338860185,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000055_node14"
+    },
+    {
+      "edge_id": 32,
+      "node_id_1": 4,
+      "node_id_2": 13,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000032.xyz",
+      "ts_energy_hartree": -3.628322290026,
+      "barrier_fwd_kcal": 1.538266341164473,
+      "barrier_rev_kcal": 1.8320567192943433,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000061_node11"
+    },
+    {
+      "edge_id": 33,
+      "node_id_1": 4,
+      "node_id_2": 11,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000033.xyz",
+      "ts_energy_hartree": -3.629267701834,
+      "barrier_fwd_kcal": 0.9450114735579386,
+      "barrier_rev_kcal": 2.457679693365113,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000061_node11"
+    },
+    {
+      "edge_id": 34,
+      "node_id_1": 11,
+      "node_id_2": 18,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000034.xyz",
+      "ts_energy_hartree": -3.614829763772,
+      "barrier_fwd_kcal": 11.51762261292239,
+      "barrier_rev_kcal": 6.503928498146765,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000062_node11"
+    },
+    {
+      "edge_id": 35,
+      "node_id_1": 9,
+      "node_id_2": 11,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000035.xyz",
+      "ts_energy_hartree": -3.619785474784,
+      "barrier_fwd_kcal": 3.8239361909773906,
+      "barrier_rev_kcal": 8.407867001859124,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000063_node11"
+    },
+    {
+      "edge_id": 36,
+      "node_id_1": 11,
+      "node_id_2": 11,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000036.xyz",
+      "ts_energy_hartree": -3.628722404729,
+      "barrier_fwd_kcal": 2.7998587935246433,
+      "barrier_rev_kcal": 2.7998587935246433,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000064_node11"
+    },
+    {
+      "edge_id": 37,
+      "node_id_1": 11,
+      "node_id_2": 19,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000037.xyz",
+      "ts_energy_hartree": -3.610791649002,
+      "barrier_fwd_kcal": 14.05157788756953,
+      "barrier_rev_kcal": 7.2833315694153,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000065_node11"
+    },
+    {
+      "edge_id": 38,
+      "node_id_1": 1,
+      "node_id_2": 20,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000038.xyz",
+      "ts_energy_hartree": -3.615023217785,
+      "barrier_fwd_kcal": 11.764857411194223,
+      "barrier_rev_kcal": 7.705525317513624,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000067_node11"
+    },
+    {
+      "edge_id": 39,
+      "node_id_1": 4,
+      "node_id_2": 3,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000039.xyz",
+      "ts_energy_hartree": -3.629001702785,
+      "barrier_fwd_kcal": 1.111928397507812,
+      "barrier_rev_kcal": 2.2620355990483434,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000072_node11"
+    },
+    {
+      "edge_id": 40,
+      "node_id_1": 18,
+      "node_id_2": 11,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000040.xyz",
+      "ts_energy_hartree": -3.611029134591,
+      "barrier_fwd_kcal": 9.169327210927593,
+      "barrier_rev_kcal": 13.902553429906034,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000075_node11"
+    },
+    {
+      "edge_id": 41,
+      "node_id_1": 20,
+      "node_id_2": 21,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000041.xyz",
+      "ts_energy_hartree": -3.620461961187,
+      "barrier_fwd_kcal": 4.787616552686709,
+      "barrier_rev_kcal": 0.1054652725664427,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000077_node11"
+    },
+    {
+      "edge_id": 42,
+      "node_id_1": 15,
+      "node_id_2": 15,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000042.xyz",
+      "ts_energy_hartree": -3.628722404729,
+      "barrier_fwd_kcal": 2.7998587928973566,
+      "barrier_rev_kcal": 2.7998587928973566,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000084_node15"
+    },
+    {
+      "edge_id": 43,
+      "node_id_1": 19,
+      "node_id_2": 19,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000043.xyz",
+      "ts_energy_hartree": -3.620854990056,
+      "barrier_fwd_kcal": 0.9684897160548235,
+      "barrier_rev_kcal": 0.9684897009946506,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000087_node15"
+    },
+    {
+      "edge_id": 44,
+      "node_id_1": 19,
+      "node_id_2": 16,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000044.xyz",
+      "ts_energy_hartree": -3.617265048097,
+      "barrier_fwd_kcal": 3.221212307064993,
+      "barrier_rev_kcal": 8.105656579242494,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000089_node15"
+    },
+    {
+      "edge_id": 45,
+      "node_id_1": 23,
+      "node_id_2": 15,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000045.xyz",
+      "ts_energy_hartree": -3.629267701834,
+      "barrier_fwd_kcal": 0.9450114754403557,
+      "barrier_rev_kcal": 2.457679693365113,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000092_node15"
+    },
+    {
+      "edge_id": 46,
+      "node_id_1": 4,
+      "node_id_2": 20,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000046.xyz",
+      "ts_energy_hartree": -3.610833395522,
+      "barrier_fwd_kcal": 12.512713332838246,
+      "barrier_rev_kcal": 10.82963272850527,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000095_node15"
+    },
+    {
+      "edge_id": 47,
+      "node_id_1": 24,
+      "node_id_2": 20,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000047.xyz",
+      "ts_energy_hartree": -3.623765320124,
+      "barrier_fwd_kcal": 0.1919937248691174,
+      "barrier_rev_kcal": 2.714727523069102,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000095_node15"
+    },
+    {
+      "edge_id": 48,
+      "node_id_1": 11,
+      "node_id_2": 25,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000048.xyz",
+      "ts_energy_hartree": -3.611530110052,
+      "barrier_fwd_kcal": 13.588186578121814,
+      "barrier_rev_kcal": 8.574492468366154,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000097_node15"
+    },
+    {
+      "edge_id": 49,
+      "node_id_1": 3,
+      "node_id_2": 3,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000049.xyz",
+      "ts_energy_hartree": -3.627570670844,
+      "barrier_fwd_kcal": 3.1600216996226087,
+      "barrier_rev_kcal": 3.1600216996226087,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000102_node3"
+    },
+    {
+      "edge_id": 50,
+      "node_id_1": 0,
+      "node_id_2": 9,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000050.xyz",
+      "ts_energy_hartree": -3.613571075604,
+      "barrier_fwd_kcal": 12.002411993551183,
+      "barrier_rev_kcal": 7.984974062624565,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000103_node3"
+    },
+    {
+      "edge_id": 51,
+      "node_id_1": 0,
+      "node_id_2": 26,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000051.xyz",
+      "ts_energy_hartree": -3.612316035066,
+      "barrier_fwd_kcal": 12.789961821400007,
+      "barrier_rev_kcal": 10.176450107487408,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000111_node3"
+    },
+    {
+      "edge_id": 52,
+      "node_id_1": 2,
+      "node_id_2": 1,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000052.xyz",
+      "ts_energy_hartree": -3.614411475176,
+      "barrier_fwd_kcal": 9.896300622547393,
+      "barrier_rev_kcal": 12.148731695246184,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000113_node3"
+    },
+    {
+      "edge_id": 53,
+      "node_id_1": 15,
+      "node_id_2": 3,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000053.xyz",
+      "ts_energy_hartree": -3.626807252712,
+      "barrier_fwd_kcal": 4.001634828342206,
+      "barrier_rev_kcal": 3.639073810075841,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000115_node3"
+    },
+    {
+      "edge_id": 54,
+      "node_id_1": 0,
+      "node_id_2": 10,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000054.xyz",
+      "ts_energy_hartree": -3.611551904064,
+      "barrier_fwd_kcal": 13.21194961586896,
+      "barrier_rev_kcal": 10.075880455504015,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000121_node23"
+    },
+    {
+      "edge_id": 55,
+      "node_id_1": 23,
+      "node_id_2": 23,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000055.xyz",
+      "ts_energy_hartree": -3.625575320307,
+      "barrier_fwd_kcal": 3.26201586462803,
+      "barrier_rev_kcal": 3.2620158652553166,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000123_node23"
+    },
+    {
+      "edge_id": 56,
+      "node_id_1": 27,
+      "node_id_2": 23,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000056.xyz",
+      "ts_energy_hartree": -3.628322290026,
+      "barrier_fwd_kcal": 1.8358147436397798,
+      "barrier_rev_kcal": 1.538266341164473,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000124_node23"
+    },
+    {
+      "edge_id": 57,
+      "node_id_1": 28,
+      "node_id_2": 23,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000057.xyz",
+      "ts_energy_hartree": -3.610385198544,
+      "barrier_fwd_kcal": 9.760767601632239,
+      "barrier_rev_kcal": 12.7939611827515,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000129_node23"
+    },
+    {
+      "edge_id": 58,
+      "node_id_1": 0,
+      "node_id_2": 27,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000058.xyz",
+      "ts_energy_hartree": -3.631209064283,
+      "barrier_fwd_kcal": 0.9344069951738592,
+      "barrier_rev_kcal": 0.020578529375054257,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000130_node23"
+    },
+    {
+      "edge_id": 59,
+      "node_id_1": 12,
+      "node_id_2": 3,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000059.xyz",
+      "ts_energy_hartree": -3.615806672388,
+      "barrier_fwd_kcal": 7.986042117634524,
+      "barrier_rev_kcal": 10.542042182256319,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000132_node23"
+    },
+    {
+      "edge_id": 60,
+      "node_id_1": 27,
+      "node_id_2": 24,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000060.xyz",
+      "ts_energy_hartree": -3.613388432463,
+      "barrier_fwd_kcal": 11.203193828463517,
+      "barrier_rev_kcal": 6.608884589445539,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000133_node23"
+    },
+    {
+      "edge_id": 61,
+      "node_id_1": 9,
+      "node_id_2": 9,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000061.xyz",
+      "ts_energy_hartree": -3.620163345952,
+      "barrier_fwd_kcal": 3.5868184531057854,
+      "barrier_rev_kcal": 3.5868184537333505,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000133_node23"
+    },
+    {
+      "edge_id": 62,
+      "node_id_1": 27,
+      "node_id_2": 27,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000062.xyz",
+      "ts_energy_hartree": -3.626784087268,
+      "barrier_fwd_kcal": 2.7972935285196536,
+      "barrier_rev_kcal": 2.7972935285196536,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000136_node23"
+    },
+    {
+      "edge_id": 63,
+      "node_id_1": 18,
+      "node_id_2": 26,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000063.xyz",
+      "ts_energy_hartree": -3.617266750138,
+      "barrier_fwd_kcal": 4.974696465473015,
+      "barrier_rev_kcal": 7.0698294973604785,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000142_node26"
+    },
+    {
+      "edge_id": 64,
+      "node_id_1": 16,
+      "node_id_2": 0,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000064.xyz",
+      "ts_energy_hartree": -3.616138900112,
+      "barrier_fwd_kcal": 8.812325108955998,
+      "barrier_rev_kcal": 10.333566138548504,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000143_node26"
+    },
+    {
+      "edge_id": 65,
+      "node_id_1": 27,
+      "node_id_2": 1,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000065.xyz",
+      "ts_energy_hartree": -3.630751922362,
+      "barrier_fwd_kcal": 0.3111974344628764,
+      "barrier_rev_kcal": 1.8949462760068216,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000145_node26"
+    },
+    {
+      "edge_id": 66,
+      "node_id_1": 26,
+      "node_id_2": 16,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000066.xyz",
+      "ts_energy_hartree": -3.628464699866,
+      "barrier_fwd_kcal": 0.04300995303723942,
+      "barrier_rev_kcal": 1.0777689893216598,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000147_node26"
+    },
+    {
+      "edge_id": 67,
+      "node_id_1": 26,
+      "node_id_2": 26,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000067.xyz",
+      "ts_energy_hartree": -3.62358518325,
+      "barrier_fwd_kcal": 3.10495285874526,
+      "barrier_rev_kcal": 3.104952832390027,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000149_node26"
+    },
+    {
+      "edge_id": 68,
+      "node_id_1": 29,
+      "node_id_2": 16,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000068.xyz",
+      "ts_energy_hartree": -3.609356461056,
+      "barrier_fwd_kcal": 6.497896675024538,
+      "barrier_rev_kcal": 13.068369873423517,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000151_node26"
+    },
+    {
+      "edge_id": 69,
+      "node_id_1": 26,
+      "node_id_2": 17,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000069.xyz",
+      "ts_energy_hartree": -3.619186074923,
+      "barrier_fwd_kcal": 5.865435010462534,
+      "barrier_rev_kcal": 4.238134340115036,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000154_node26"
+    },
+    {
+      "edge_id": 70,
+      "node_id_1": 30,
+      "node_id_2": 16,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000070.xyz",
+      "ts_energy_hartree": -3.613981920017,
+      "barrier_fwd_kcal": 5.283133342060251,
+      "barrier_rev_kcal": 10.165850554425543,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000155_node26"
+    },
+    {
+      "edge_id": 71,
+      "node_id_1": 31,
+      "node_id_2": 30,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000071.xyz",
+      "ts_energy_hartree": -3.620362594426,
+      "barrier_fwd_kcal": 0.01881416412459477,
+      "barrier_rev_kcal": 1.2791996986481111,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000155_node26"
+    },
+    {
+      "edge_id": 72,
+      "node_id_1": 30,
+      "node_id_2": 16,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000072.xyz",
+      "ts_energy_hartree": -3.609654211456,
+      "barrier_fwd_kcal": 7.998811460405742,
+      "barrier_rev_kcal": 12.881528676536146,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000159_node26"
+    },
+    {
+      "edge_id": 73,
+      "node_id_1": 30,
+      "node_id_2": 30,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000073.xyz",
+      "ts_energy_hartree": -3.621644248977,
+      "barrier_fwd_kcal": 0.47494932612786267,
+      "barrier_rev_kcal": 0.4749493255002974,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000159_node26"
+    },
+    {
+      "edge_id": 74,
+      "node_id_1": 16,
+      "node_id_2": 16,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000074.xyz",
+      "ts_energy_hartree": -3.625801522007,
+      "barrier_fwd_kcal": 2.74893832679123,
+      "barrier_rev_kcal": 2.7489383261636644,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000173_node16"
+    },
+    {
+      "edge_id": 75,
+      "node_id_1": 20,
+      "node_id_2": 8,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000075.xyz",
+      "ts_energy_hartree": -3.622748044159,
+      "barrier_fwd_kcal": 3.3530778281513953,
+      "barrier_rev_kcal": 1.0082221162005833,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000182_node20"
+    },
+    {
+      "edge_id": 76,
+      "node_id_1": 32,
+      "node_id_2": 20,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000076.xyz",
+      "ts_energy_hartree": -3.623765320123,
+      "barrier_fwd_kcal": 0.19199372549668264,
+      "barrier_rev_kcal": 2.7147275249515195,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000182_node20"
+    },
+    {
+      "edge_id": 77,
+      "node_id_1": 0,
+      "node_id_2": 33,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000077.xyz",
+      "ts_energy_hartree": -3.616854169735,
+      "barrier_fwd_kcal": 9.942239322314867,
+      "barrier_rev_kcal": 5.219093904984183,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000183_node10"
+    },
+    {
+      "edge_id": 78,
+      "node_id_1": 2,
+      "node_id_2": 2,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000078.xyz",
+      "ts_energy_hartree": -3.629040834687,
+      "barrier_fwd_kcal": 0.7162389302154072,
+      "barrier_rev_kcal": 0.7162389251954425,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000194_node2"
+    },
+    {
+      "edge_id": 79,
+      "node_id_1": 12,
+      "node_id_2": 18,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000079.xyz",
+      "ts_energy_hartree": -3.617413476264,
+      "barrier_fwd_kcal": 6.977757463212317,
+      "barrier_rev_kcal": 4.882624431324852,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000199_node14"
+    },
+    {
+      "edge_id": 80,
+      "node_id_1": 11,
+      "node_id_2": 1,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000080.xyz",
+      "ts_energy_hartree": -3.622782516781,
+      "barrier_fwd_kcal": 6.527194755392881,
+      "barrier_rev_kcal": 6.895823780232802,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000203_node1"
+    },
+    {
+      "edge_id": 81,
+      "node_id_1": 10,
+      "node_id_2": 10,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000081.xyz",
+      "ts_energy_hartree": -3.622188661136,
+      "barrier_fwd_kcal": 3.70409597467863,
+      "barrier_rev_kcal": 3.7040959759337606,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000207_node7"
+    },
+    {
+      "edge_id": 82,
+      "node_id_1": 1,
+      "node_id_2": 16,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000082.xyz",
+      "ts_energy_hartree": -3.614411475177,
+      "barrier_fwd_kcal": 12.148731694618618,
+      "barrier_rev_kcal": 9.896300621292262,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000211_node16"
+    },
+    {
+      "edge_id": 83,
+      "node_id_1": 4,
+      "node_id_2": 4,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000083.xyz",
+      "ts_energy_hartree": -3.625575320306,
+      "barrier_fwd_kcal": 3.2620158658828817,
+      "barrier_rev_kcal": 3.262015864000465,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000215_node4"
+    },
+    {
+      "edge_id": 84,
+      "node_id_1": 15,
+      "node_id_2": 15,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000084.xyz",
+      "ts_energy_hartree": -3.63281330804,
+      "barrier_fwd_kcal": 0.23277820175183886,
+      "barrier_rev_kcal": 0.2327782086542207,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000217_node15"
+    },
+    {
+      "edge_id": 85,
+      "node_id_1": 17,
+      "node_id_2": 2,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000085.xyz",
+      "ts_energy_hartree": -3.620575815761,
+      "barrier_fwd_kcal": 3.2537892173061436,
+      "barrier_rev_kcal": 6.028118486299306,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000220_node1"
+    },
+    {
+      "edge_id": 86,
+      "node_id_1": 18,
+      "node_id_2": 34,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000086.xyz",
+      "ts_energy_hartree": -3.622347422188,
+      "barrier_fwd_kcal": 2.0669945143533033,
+      "barrier_rev_kcal": 0.031974414550224574,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000229_node11"
+    },
+    {
+      "edge_id": 87,
+      "node_id_1": 2,
+      "node_id_2": 34,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000087.xyz",
+      "ts_energy_hartree": -3.621562899417,
+      "barrier_fwd_kcal": 5.408713892662641,
+      "barrier_rev_kcal": 0.5242698871764107,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000229_node11"
+    },
+    {
+      "edge_id": 88,
+      "node_id_1": 10,
+      "node_id_2": 10,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000088.xyz",
+      "ts_energy_hartree": -3.627215390075,
+      "barrier_fwd_kcal": 0.5497759397163036,
+      "barrier_rev_kcal": 0.054821679955604434,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000234_node20"
+    },
+    {
+      "edge_id": 89,
+      "node_id_1": 22,
+      "node_id_2": 22,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000089.xyz",
+      "ts_energy_hartree": -3.622944977726,
+      "barrier_fwd_kcal": 2.9266187958742456,
+      "barrier_rev_kcal": 2.9266187952466804,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000242_node22"
+    },
+    {
+      "edge_id": 90,
+      "node_id_1": 24,
+      "node_id_2": 24,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000090.xyz",
+      "ts_energy_hartree": -3.620226501799,
+      "barrier_fwd_kcal": 2.4126357461787666,
+      "barrier_rev_kcal": 2.4126357505714444,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000248_node24"
+    },
+    {
+      "edge_id": 91,
+      "node_id_1": 9,
+      "node_id_2": 9,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000091.xyz",
+      "ts_energy_hartree": -3.625851182169,
+      "barrier_fwd_kcal": 0.2790908513574669,
+      "barrier_rev_kcal": 0.017647337240642547,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000252_node9"
+    },
+    {
+      "edge_id": 92,
+      "node_id_1": 35,
+      "node_id_2": 20,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000092.xyz",
+      "ts_energy_hartree": -3.610187357039,
+      "barrier_fwd_kcal": 8.478516693387542,
+      "barrier_rev_kcal": 11.235027995901255,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000278_node22"
+    },
+    {
+      "edge_id": 93,
+      "node_id_1": 36,
+      "node_id_2": 9,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000093.xyz",
+      "ts_energy_hartree": -3.620452509895,
+      "barrier_fwd_kcal": 0.11139604846563618,
+      "barrier_rev_kcal": 3.7817618377135473,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000279_node3"
+    },
+    {
+      "edge_id": 94,
+      "node_id_1": 9,
+      "node_id_2": 9,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000094.xyz",
+      "ts_energy_hartree": -3.623108808464,
+      "barrier_fwd_kcal": 2.114909319893291,
+      "barrier_rev_kcal": 2.114909318010595,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000280_node14"
+    },
+    {
+      "edge_id": 95,
+      "node_id_1": 20,
+      "node_id_2": 22,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000095.xyz",
+      "ts_energy_hartree": -3.627601889224,
+      "barrier_fwd_kcal": 0.3072440651633319,
+      "barrier_rev_kcal": 0.0043627018870956045,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000300_node22"
+    },
+    {
+      "edge_id": 96,
+      "node_id_1": 9,
+      "node_id_2": 24,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000096.xyz",
+      "ts_energy_hartree": -3.61886641671,
+      "barrier_fwd_kcal": 4.400653836431002,
+      "barrier_rev_kcal": 3.1713975760303734,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000303_node32"
+    },
+    {
+      "edge_id": 97,
+      "node_id_1": 35,
+      "node_id_2": 2,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000097.xyz",
+      "ts_energy_hartree": -3.607942847692,
+      "barrier_fwd_kcal": 9.886967574993902,
+      "barrier_rev_kcal": 13.955425651278913,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000317_node18"
+    },
+    {
+      "edge_id": 98,
+      "node_id_1": 18,
+      "node_id_2": 18,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000098.xyz",
+      "ts_energy_hartree": -3.624832581703,
+      "barrier_fwd_kcal": 0.22706547974725913,
+      "barrier_rev_kcal": 0.507533374289592,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000324_node18"
+    },
+    {
+      "edge_id": 99,
+      "node_id_1": 5,
+      "node_id_2": 5,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000099.xyz",
+      "ts_energy_hartree": -3.619393144224,
+      "barrier_fwd_kcal": 3.113453609735165,
+      "barrier_rev_kcal": 3.113453609735165,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000339_node8"
+    },
+    {
+      "edge_id": 100,
+      "node_id_1": 35,
+      "node_id_2": 29,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000100.xyz",
+      "ts_energy_hartree": -3.613395353178,
+      "barrier_fwd_kcal": 6.465468725492093,
+      "barrier_rev_kcal": 3.9634536040056902,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000352_node35"
+    },
+    {
+      "edge_id": 101,
+      "node_id_1": 30,
+      "node_id_2": 35,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000101.xyz",
+      "ts_energy_hartree": -3.620154225837,
+      "barrier_fwd_kcal": 1.4099529629571723,
+      "barrier_rev_kcal": 2.223742174135094,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000352_node35"
+    },
+    {
+      "edge_id": 102,
+      "node_id_1": 10,
+      "node_id_2": 30,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000102.xyz",
+      "ts_energy_hartree": -3.60608879667,
+      "barrier_fwd_kcal": 13.806913459092124,
+      "barrier_rev_kcal": 10.236143021753263,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000373_node32"
+    },
+    {
+      "edge_id": 103,
+      "node_id_1": 30,
+      "node_id_2": 37,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000103.xyz",
+      "ts_energy_hartree": -3.620362594426,
+      "barrier_fwd_kcal": 1.2791996999032416,
+      "barrier_rev_kcal": 0.018814166007011877,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000373_node32"
+    },
+    {
+      "edge_id": 104,
+      "node_id_1": 33,
+      "node_id_2": 24,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000104.xyz",
+      "ts_energy_hartree": -3.620258125794,
+      "barrier_fwd_kcal": 3.08307922762712,
+      "barrier_rev_kcal": 2.3927913941032113,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000376_node32"
+    },
+    {
+      "edge_id": 105,
+      "node_id_1": 23,
+      "node_id_2": 10,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000105.xyz",
+      "ts_energy_hartree": -3.61083339552,
+      "barrier_fwd_kcal": 12.512713334093377,
+      "barrier_rev_kcal": 10.8296327297604,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000382_node11"
+    },
+    {
+      "edge_id": 106,
+      "node_id_1": 1,
+      "node_id_2": 9,
+      "ts_xyz_file": "</absolute/path/to/>/mappper_ala-ala/nodes/TS000106.xyz",
+      "ts_energy_hartree": -3.615307908331,
+      "barrier_fwd_kcal": 11.586211397048485,
+      "barrier_rev_kcal": 7.010048059078755,
+      "source_run_dir": "</absolute/path/to/>/mappper_ala-ala/runs/run_000394_node8"
+    }
+  ],
+  "metadata": {
+    "n_nodes": 38,
+    "n_edges": 107
+  }
+}
