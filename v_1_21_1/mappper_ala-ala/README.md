@@ -6,4 +6,8 @@ To use GFN-FF,
 ```
 pip install pygfnff
 ```
+and
+```
+touch software_path.conf
+```
 
