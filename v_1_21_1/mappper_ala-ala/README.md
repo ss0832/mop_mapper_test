@@ -135,3 +135,5 @@ optimization artifact, as the stored forward barrier (0.307 kcal/mol) is physica
 Additionally, isolated nodes (e.g., node 6) lacking TS connections to the main graph component were
 automatically excluded from the minimax path calculations.
 
+### Reference
+- Spicher, S.; Grimme, S. Robust Atomistic Modeling of Materials, Organometallic, and Biochemical Systems. Angew. Chem. Int. Ed. 2020, 59 (36), 15665–15673.
