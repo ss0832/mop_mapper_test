@@ -55,3 +55,47 @@ Standard Output: A console summary detailing the optimal GMM component count, th
 
 <img width="3000" height="3000" alt="ramachandran_classified" src="https://github.com/user-attachments/assets/04b469ce-8d87-4ba0-b44d-03bcc1f0aba2" />
 
+`activation_energy_analysis.py`
+```
+NOTE: The reaction graph contains 2 connected components.
+  Component 0: nodes [0, 1, 2, 3, 4, 5, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37]  (main)
+  Component 1: nodes [6, 7]  (isolated — excluded)
+
+NOTE: Node(s) [6] assigned to 'C7eq' are isolated and will be excluded from barrier calculations.
+
+Origin       | Destination  |   Barrier (kcal/mol) | Best path (node IDs)
+-------------------------------------------------------------------------
+C5           | C7eq         |                 1.16 | 0 -> 13 -> 14
+C7eq         | C5           |                 1.89 | 14 -> 13 -> 0
+C5           | C7ax         |                 2.26 | 0 -> 1 -> 3 -> 4 -> 11
+alpha_L      | alpha_R      |                 2.34 | 9 -> 8 -> 20
+C7ax         | C5           |                 2.62 | 11 -> 4 -> 3 -> 1 -> 0
+C7ax         | C7eq         |                 2.62 | 11 -> 4 -> 3 -> 1 -> 0 -> 13 -> 14
+C7eq         | C7ax         |                 2.99 | 14 -> 13 -> 0 -> 1 -> 3 -> 4 -> 11
+alpha_R      | alpha_L      |                 3.35 | 20 -> 8 -> 9
+alpha_L      | C5           |                 3.78 | 9 -> 8 -> 20 -> 21
+alpha_L      | C7eq         |                 4.20 | 9 -> 15 -> 23 -> 27 -> 0 -> 13 -> 14
+alpha_L      | C7ax         |                 4.20 | 9 -> 15 -> 23 -> 27 -> 0 -> 1 -> 3 -> 4 -> 11
+alpha_R      | C5           |                 4.79 | 20 -> 21
+alpha_R      | C7eq         |                 5.21 | 20 -> 8 -> 9 -> 15 -> 23 -> 27 -> 0 -> 13 -> 14
+alpha_R      | C7ax         |                 5.21 | 20 -> 8 -> 9 -> 15 -> 23 -> 27 -> 0 -> 1 -> 3 -> 4 -> 11
+C5           | alpha_R      |                 7.62 | 21 -> 20
+C5           | alpha_L      |                 7.62 | 21 -> 20 -> 8 -> 9
+C7ax         | alpha_R      |                 8.41 | 11 -> 4 -> 3 -> 1 -> 0 -> 27 -> 23 -> 15 -> 9 -> 8 -> 20
+C7ax         | alpha_L      |                 8.41 | 11 -> 4 -> 3 -> 1 -> 0 -> 27 -> 23 -> 15 -> 9
+C7eq         | alpha_R      |                 8.78 | 14 -> 13 -> 0 -> 27 -> 23 -> 15 -> 9 -> 8 -> 20
+C7eq         | alpha_L      |                 8.78 | 14 -> 13 -> 0 -> 27 -> 23 -> 15 -> 9
+
+=== Lowest escape barrier per macrostate ===
+  C5          : 1.16 kcal/mol  ->  C7eq
+  C7eq        : 1.89 kcal/mol  ->  C5
+  alpha_R     : 3.35 kcal/mol  ->  alpha_L
+  alpha_L     : 2.34 kcal/mol  ->  alpha_R
+  C7ax        : 2.62 kcal/mol  ->  C5
+
+NOTE: All barriers are GFN-FF potential energy barriers (kcal/mol).
+      They do not include ZPE, entropy, or thermal corrections and
+      must not be interpreted as free-energy barriers.
+```
+
+
