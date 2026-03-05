@@ -1,7 +1,7 @@
 > **Note on Nomenclature and Project Path**
 > Please note that the project directory name `mappper_ala-ala` contains two minor inaccuracies:
 > 1. **Typo**: `mappper` is a typographical error for `mapper`.
-> 2. **Model Identification**: While labeled `ala-ala`, the molecular model used for all simulations and kinetic analyses is **$N$-acetyl-$N^{'}$-methylalaninamide (Ac-Ala-NHMe)**. 
+> 2. **Model Identification**: While labeled `ala-ala`, the molecular model used for all simulations and kinetic analyses is **$N$-acetyl-$N$'-methylalaninamide (Ac-Ala-NHMe)**. 
 >
 > This 22-atom structure is the standard benchmark in the computational chemistry community for "alanine dipeptide" studies, as it features two peptide bonds despite containing only a single alanine residue.
 
@@ -146,6 +146,7 @@ automatically excluded from the minimax path calculations.
 
 ### Reference
 - Spicher, S.; Grimme, S. Robust Atomistic Modeling of Materials, Organometallic, and Biochemical Systems. Angew. Chem. Int. Ed. 2020, 59 (36), 15665–15673.
+
 
 
 
