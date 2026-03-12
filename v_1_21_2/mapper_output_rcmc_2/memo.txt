@@ -1,0 +1,1 @@
+2026-03-13 05:15:53 [INFO    ] multioptpy.Wrapper.mapper: All candidate (EQ, pair) combinations exhausted. Stopping.
