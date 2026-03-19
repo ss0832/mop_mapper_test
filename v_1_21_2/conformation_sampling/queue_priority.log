@@ -1,0 +1,24 @@
+# Iter 000802 | queued=2576 | explored_pairs=802 | ref_energy=-5.8590217978 Ha
+Node: EQ000008 | Priority: 0.470853 | pending_pairs=110
+Node: EQ000014 | Priority: 0.325923 | pending_pairs=115
+Node: EQ000019 | Priority: 0.290671 | pending_pairs=115
+Node: EQ000017 | Priority: 0.091439 | pending_pairs=113
+Node: EQ000004 | Priority: 0.081653 | pending_pairs=118
+Node: EQ000013 | Priority: 0.078380 | pending_pairs=116
+Node: EQ000021 | Priority: 0.062867 | pending_pairs=114
+Node: EQ000002 | Priority: 0.053451 | pending_pairs=116
+Node: EQ000011 | Priority: 0.028831 | pending_pairs=115
+Node: EQ000023 | Priority: 0.017053 | pending_pairs=112
+Node: EQ000016 | Priority: 0.013458 | pending_pairs=116
+Node: EQ000012 | Priority: 0.000098 | pending_pairs=115
+Node: EQ000009 | Priority: 0.000086 | pending_pairs=115
+Node: EQ000030 | Priority: 0.000046 | pending_pairs=116
+Node: EQ000028 | Priority: 0.000037 | pending_pairs=117
+Node: EQ000005 | Priority: 0.000011 | pending_pairs=118
+Node: EQ000018 | Priority: 0.000001 | pending_pairs=115
+Node: EQ000006 | Priority: 0.000001 | pending_pairs=118
+Node: EQ000020 | Priority: 0.000000 | pending_pairs=115
+Node: EQ000025 | Priority: 0.000000 | pending_pairs=116
+Node: EQ000026 | Priority: 0.000000 | pending_pairs=116
+Node: EQ000024 | Priority: 0.000000 | pending_pairs=117
+Node: EQ000029 | Priority: 0.000000 | pending_pairs=38
